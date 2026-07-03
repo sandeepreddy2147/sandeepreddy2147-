@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 240" width="100%" height="auto" style="background: #0D0D11; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; border-radius: 12px; border: 1px solid rgba(255,107,0,0.15);">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 240" width="100%" height="auto">
   <!-- Defs -->
   <defs>
     <linearGradient id="quoteGradient" x1="0%" y1="0%" x2="100%" y2="0%">
@@ -12,7 +12,7 @@
   </defs>
 
   <!-- Background -->
-  <rect width="800" height="240" rx="12" fill="#0D0D11" />
+  <rect width="800" height="240" rx="12" fill="#0D0D11" stroke="#FF6B00" stroke-opacity="0.15" stroke-width="1" />
   <circle cx="100" cy="120" r="180" fill="url(#quoteGlow)" />
 
   <!-- Grid overlay -->
@@ -22,33 +22,33 @@
   </g>
 
   <!-- Giant elegant Quote mark on left -->
-  <text x="50" y="90" fill="url(#quoteGradient)" font-size="120" font-family="Georgia, serif" font-weight="bold" opacity="0.15">“</text>
+  <text x="50" y="90" fill="url(#quoteGradient)" fill-opacity="0.15" font-family="Georgia, serif" font-size="120" font-weight="bold">“</text>
 
   <!-- Quote Lines (Centered vertically based on count) -->
   <g transform="translate(110, 60)">
     
-      <text x="0" y="0" fill="#F1F1F3" font-size="17" font-weight="500" font-style="italic" letter-spacing="-0.2">
-        Good software, like wine, takes time. Every module must
+      <text x="0" y="0" fill="#F1F1F3" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="normal" font-style="italic">
+        Simplicity is the ultimate sophistication. Craft is not
       </text>
     
-      <text x="0" y="28" fill="#F1F1F3" font-size="17" font-weight="500" font-style="italic" letter-spacing="-0.2">
-        represent a masterpiece of absolute structural
+      <text x="0" y="28" fill="#F1F1F3" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="normal" font-style="italic">
+        about adding features, but about refining detail until
       </text>
     
-      <text x="0" y="56" fill="#F1F1F3" font-size="17" font-weight="500" font-style="italic" letter-spacing="-0.2">
-        efficiency.
+      <text x="0" y="56" fill="#F1F1F3" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="normal" font-style="italic">
+        every element serves a singular purpose.
       </text>
     
   </g>
 
   <!-- Quote mark on right, near end of lines -->
-  <text x="710" y="180" fill="url(#quoteGradient)" font-size="120" font-family="Georgia, serif" font-weight="bold" opacity="0.15" text-anchor="end">”</text>
+  <text x="710" y="180" fill="url(#quoteGradient)" fill-opacity="0.15" font-family="Georgia, serif" font-size="120" font-weight="bold" text-anchor="end">”</text>
 
   <!-- Author Info -->
   <g transform="translate(110, 185)">
     <!-- Tiny orange line -->
     <rect x="0" y="5" width="20" height="2" rx="1" fill="url(#quoteGradient)" />
-    <text x="30" y="11" fill="#FF6B00" font-size="13" font-weight="700" letter-spacing="1.5" text-transform="uppercase">Byreddy Venkata Sandeep Reddy</text>
-    <text x="30" y="27" fill="#6F6F7F" font-size="11" font-weight="500">Full Stack Engineer &amp; Architect</text>
+    <text x="30" y="11" fill="#FF6B00" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" letter-spacing="1.5">ALEX MERCER</text>
+    <text x="30" y="27" fill="#7A7A86" font-family="Arial, Helvetica, sans-serif" font-size="11" font-weight="bold">Full Stack Engineer &amp; Architect</text>
   </g>
 </svg>
