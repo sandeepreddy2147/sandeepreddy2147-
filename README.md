@@ -13,24 +13,7 @@
 
   <!-- 3. PREMIUM SOCIAL BUTTONS -->
   <div style="margin: 20px 0 35px 0;">
-    <a href="https://github.com/sandeepreddy2147" target="_blank">
-      <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-    </a>&nbsp;
-    <a href="https://byreddy-venkata-sandeep-reddy.vercel.app" target="_blank">
-      <img src="https://img.shields.io/badge/Portfolio-FF6B00?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
-    </a>&nbsp;
-    <a href="https://www.linkedin.com/in/byreddy-venkata-sandeep-reddy/" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-    </a>&nbsp;
-    <a href="mailto:b.v.sandeepreddy21@gmail.com" target="_blank">
-      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-    </a>&nbsp;
-    <a href="https://x.com/reddy21_sandeep" target="_blank">
-      <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=x&logoColor=white" alt="Twitter" />
-    </a>&nbsp;
-    <a href="https://www.instagram.com/sandeep_reddy_21" target="_blank">
-      <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-    </a>
+    <a href="https://github.com/sandeepreddy2147" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a> &nbsp; <a href="https://byreddy-venkata-sandeep-reddy.vercel.app" target="_blank"><img src="https://img.shields.io/badge/Portfolio-FF6B00?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" /></a> &nbsp; <a href="https://www.linkedin.com/in/byreddy-venkata-sandeep-reddy/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a> &nbsp; <a href="mailto:b.v.sandeepreddy21@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a> &nbsp; <a href="https://x.com/reddy21_sandeep" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=x&logoColor=white" alt="Twitter" /></a> &nbsp; <a href="https://www.instagram.com/sandeep_reddy_21" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
   </div>
 
 </div>
@@ -96,24 +79,22 @@
 <tr>
 <td width="50%" valign="top">
 <div align="center">
-  <a href="https://www.hotbers.in" target="_blank">
-    <img src="./assets/project-hotbers.svg" alt="HOTBERS" width="100%" style="border-radius: 12px;" />
-  </a>
-  <div align="center" style="margin-top: 10px; margin-bottom: 15px;">
-    
-    <a href="https://www.hotbers.in" target="_blank" style="text-decoration: none;"><img src="https://img.shields.io/badge/Live_Demo-FF6B00?style=for-the-badge" alt="Demo" /></a>
-  </div>
+<a href="https://www.hotbers.in" target="_blank">
+<img src="./assets/project-hotbers.svg" alt="HOTBERSd" width="100%" style="border-radius: 12px;" />
+</a>
+<div align="center" style="margin-top: 10px; margin-bottom: 15px;">
+<a href="https://www.hotbers.in" target="_blank" style="text-decoration: none;"><img src="https://img.shields.io/badge/Live_Demo-FF6B00?style=for-the-badge" alt="Demo" /></a>
+</div>
 </div>
 </td>
 <td width="50%" valign="top">
 <div align="center">
-  <a href="https://tvarit-gamma.vercel.app/login" target="_blank">
-    <img src="./assets/project-tvarit.svg" alt="TVARIT" width="100%" style="border-radius: 12px;" />
-  </a>
-  <div align="center" style="margin-top: 10px; margin-bottom: 15px;">
-    <a href="https://github.com/sandeepreddy2147/tvarit" target="_blank" style="text-decoration: none; margin-right: 8px;"><img src="https://img.shields.io/badge/Repository-1A1A24?style=for-the-badge" alt="GitHub" /></a>
-    <a href="https://tvarit-gamma.vercel.app/login" target="_blank" style="text-decoration: none;"><img src="https://img.shields.io/badge/Live_Demo-FF6B00?style=for-the-badge" alt="Demo" /></a>
-  </div>
+<a href="https://tvarit-gamma.vercel.app/login" target="_blank">
+<img src="./assets/project-tvarit.svg" alt="TVARIT" width="100%" style="border-radius: 12px;" />
+</a>
+<div align="center" style="margin-top: 10px; margin-bottom: 15px;">
+<a href="https://github.com/sandeepreddy2147/tvarit" target="_blank" style="text-decoration: none; margin-right: 8px;"><img src="https://img.shields.io/badge/Repository-1A1A24?style=for-the-badge" alt="GitHub" /></a><a href="https://tvarit-gamma.vercel.app/login" target="_blank" style="text-decoration: none;"><img src="https://img.shields.io/badge/Live_Demo-FF6B00?style=for-the-badge" alt="Demo" /></a>
+</div>
 </div>
 </td>
 </tr>
