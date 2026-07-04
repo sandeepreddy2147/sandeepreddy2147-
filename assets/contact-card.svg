@@ -18,7 +18,7 @@
     <path d="M 30 24 C 22 24, 18 28, 18 34 C 18 42, 30 54, 30 54 C 30 54, 42 42, 42 34 C 42 28, 38 24, 30 24 Z" fill="none" stroke="#FF6B00" stroke-width="2" />
     <circle cx="30" cy="34" r="3" fill="#FF6B00" />
     <text x="60" y="38" fill="#FF6B00" font-family="Arial, Helvetica, sans-serif" font-size="10" font-weight="bold" letter-spacing="1">LOCATED IN</text>
-    <text x="60" y="56" fill="#FFFFFF" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold">San Francisco, CA</text>
+    <text x="60" y="56" fill="#FFFFFF" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold">Gudivada, Andhra Pradesh</text>
   </g>
 
   <!-- 2. Direct Connect -->
@@ -29,7 +29,7 @@
     <rect x="20" y="30" width="22" height="16" rx="2" fill="none" stroke="#FF6B00" stroke-width="2" />
     <path d="M 20 32 L 31 39 L 42 32" fill="none" stroke="#FF6B00" stroke-width="2" />
     <text x="56" y="38" fill="#FF6B00" font-family="Arial, Helvetica, sans-serif" font-size="10" font-weight="bold" letter-spacing="1">DIRECT CONNECT</text>
-    <text x="56" y="56" fill="#FFFFFF" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="bold">hello@yourdomain.com</text>
+    <text x="56" y="56" fill="#FFFFFF" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="bold">b.v.sandeepreddy21@gmail.com</text>
   </g>
 
   <!-- 3. Professional Networks -->
@@ -41,6 +41,6 @@
     <line x1="19" y1="40" x2="41" y2="40" stroke="#FF6B00" stroke-width="1.5" />
     <path d="M 30 29 A 6 11 0 0 1 30 51 A 6 11 0 0 1 30 29 Z" fill="none" stroke="#FF6B00" stroke-width="1.5" />
     <text x="56" y="38" fill="#FF6B00" font-family="Arial, Helvetica, sans-serif" font-size="10" font-weight="bold" letter-spacing="1">INTERACTIVE HUB</text>
-    <text x="56" y="56" fill="#FFFFFF" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold">yourportfolio.com</text>
+    <text x="56" y="56" fill="#FFFFFF" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold">byreddy-venkata-sandeep-reddy.vercel.app</text>
   </g>
 </svg>

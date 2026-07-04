@@ -28,15 +28,15 @@
   <g transform="translate(110, 60)">
     
       <text x="0" y="0" fill="#F1F1F3" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="normal" font-style="italic">
-        Simplicity is the ultimate sophistication. Craft is not
+        Good software, like wine, takes time. Every module must
       </text>
     
       <text x="0" y="28" fill="#F1F1F3" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="normal" font-style="italic">
-        about adding features, but about refining detail until
+        represent a masterpiece of absolute structural
       </text>
     
       <text x="0" y="56" fill="#F1F1F3" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="normal" font-style="italic">
-        every element serves a singular purpose.
+        efficiency.
       </text>
     
   </g>
@@ -48,7 +48,7 @@
   <g transform="translate(110, 185)">
     <!-- Tiny orange line -->
     <rect x="0" y="5" width="20" height="2" rx="1" fill="url(#quoteGradient)" />
-    <text x="30" y="11" fill="#FF6B00" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" letter-spacing="1.5">ALEX MERCER</text>
+    <text x="30" y="11" fill="#FF6B00" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" letter-spacing="1.5">BYREDDY VENKATA SANDEEP REDDY</text>
     <text x="30" y="27" fill="#7A7A86" font-family="Arial, Helvetica, sans-serif" font-size="11" font-weight="bold">Full Stack Engineer &amp; Architect</text>
   </g>
 </svg>
