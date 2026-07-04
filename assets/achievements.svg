@@ -1,0 +1,402 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 1450" width="100%" height="auto" style="background-color: #0D1117; border-radius: 18px;">
+  <defs>
+    <!-- Card Inner Glow & Shadows -->
+    <filter id="shadow" x="-5%" y="-5%" width="110%" height="110%">
+      <feDropShadow dx="0" dy="8" stdDeviation="16" flood-color="#000000" flood-opacity="0.4" />
+    </filter>
+
+    <linearGradient id="headerDividerGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#FF6B00" stop-opacity="1" />
+      <stop offset="30%" stop-color="#00D2FF" stop-opacity="1" />
+      <stop offset="100%" stop-color="#30363D" stop-opacity="0.2" />
+    </linearGradient>
+
+    <!-- Glowing Accent Filters -->
+    <filter id="glow_cyan" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="6" result="blur" />
+      <feMerge>
+        <feMergeNode in="blur" />
+        <feMergeNode in="SourceGraphic" />
+      </feMerge>
+    </filter>
+    <filter id="glow_orange" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="6" result="blur" />
+      <feMerge>
+        <feMergeNode in="blur" />
+        <feMergeNode in="SourceGraphic" />
+      </feMerge>
+    </filter>
+    <filter id="glow_purple" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="6" result="blur" />
+      <feMerge>
+        <feMergeNode in="blur" />
+        <feMergeNode in="SourceGraphic" />
+      </feMerge>
+    </filter>
+    <filter id="glow_green" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="6" result="blur" />
+      <feMerge>
+        <feMergeNode in="blur" />
+        <feMergeNode in="SourceGraphic" />
+      </feMerge>
+    </filter>
+
+    <!-- Badge Circle Gradients -->
+    <linearGradient id="grad_pull_shark" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0A84FF" />
+      <stop offset="100%" stop-color="#00D2FF" />
+    </linearGradient>
+    <linearGradient id="grad_arctic_vault" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#798296" />
+      <stop offset="100%" stop-color="#B0C4DE" />
+    </linearGradient>
+    <linearGradient id="grad_quickdraw" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#FF375F" />
+      <stop offset="100%" stop-color="#BF5AF2" />
+    </linearGradient>
+    <linearGradient id="grad_pair_extra" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#BF5AF2" />
+      <stop offset="100%" stop-color="#0A84FF" />
+    </linearGradient>
+    <linearGradient id="grad_galaxy_brain" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#8E2DE2" />
+      <stop offset="100%" stop-color="#4A00E0" />
+    </linearGradient>
+    <linearGradient id="grad_yolo" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#FF9F0A" />
+      <stop offset="100%" stop-color="#FF375F" />
+    </linearGradient>
+  </defs>
+
+  <!-- Main Canvas Background -->
+  <rect width="1600" height="1450" rx="18" fill="#0D1117" stroke="#30363D" stroke-width="1.5" />
+
+  <!-- HEADER SECTION (🏆 Accolades & Achievements) -->
+  <g transform="translate(60, 50)">
+    <!-- Trophy Icon Vector -->
+    <g transform="translate(0, 5)">
+      <circle cx="24" cy="24" r="24" fill="#FF9F1A" fill-opacity="0.15" />
+      <!-- Trophy Outline -->
+      <path d="M24 10c-4.4 0-8 3.6-8 8 0 3.3 2 6.1 4.9 7.3l.1.1v4.6h-3c-.6 0-1 .4-1 1s.4 1 1 1h8c.6 0 1-.4 1-1s-.4-1-1-1h-3v-4.6c2.9-1.2 5-4 5-7.4 0-4.4-3.6-8-8-8zm-4.1 6.5c-.5-1-1.2-1.8-2.1-2.4l-.4-.2v5.2c1.3-.2 2.1-1.2 2.5-2.6zm8.2 0c.4 1.4 1.2 2.4 2.5 2.6v-5.2l-.4.2c-.9.6-1.6 1.4-2.1 2.4z" fill="#FF9F1A" transform="scale(1.2) translate(-4, -4)" />
+    </g>
+    <!-- Title and Subtitle -->
+    <text x="75" y="28" fill="#FFFFFF" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Inter, sans-serif" font-size="28" font-weight="800" letter-spacing="-0.5px">Accolades &amp; Achievements</text>
+    <text x="75" y="53" fill="#8B949E" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Inter, sans-serif" font-size="14" font-weight="500">Premium tracking dashboard of professional milestones, contributions, and open-source accolades.</text>
+    <!-- Underline divider -->
+    <line x1="0" y1="75" x2="1480" y2="75" stroke="url(#headerDividerGrad)" stroke-width="1.5" />
+  </g>
+
+  <!-- TOP ROW BADGES (Glassmorphism rounded badge pills with macOS style accent dots) -->
+  <!-- Spacing: 8 Badges. Spaced exactly to look proportional. -->
+  <g transform="translate(60, 155)">
+    <!-- Badge 1: Open Source -->
+    <g transform="translate(0, 0)">
+      <rect width="165" height="42" rx="21" fill="#161B22" fill-opacity="0.6" stroke="#00D2FF" stroke-opacity="0.3" stroke-width="1.2" />
+      <circle cx="22" cy="21" r="5" fill="#00D2FF" filter="url(#glow_cyan)" />
+      <text x="38" y="26" fill="#FFFFFF" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Inter, sans-serif" font-size="13" font-weight="600" letter-spacing="-0.1px">Open Source</text>
+    </g>
+    <!-- Badge 2: Contributor -->
+    <g transform="translate(188, 0)">
+      <rect width="165" height="42" rx="21" fill="#161B22" fill-opacity="0.6" stroke="#FF6B00" stroke-opacity="0.3" stroke-width="1.2" />
+      <circle cx="22" cy="21" r="5" fill="#FF6B00" filter="url(#glow_orange)" />
+      <text x="38" y="26" fill="#FFFFFF" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Inter, sans-serif" font-size="13" font-weight="600" letter-spacing="-0.1px">Contributor</text>
+    </g>
+    <!-- Badge 3: Full Stack -->
+    <g transform="translate(376, 0)">
+      <rect width="165" height="42" rx="21" fill="#161B22" fill-opacity="0.6" stroke="#BF5AF2" stroke-opacity="0.3" stroke-width="1.2" />
+      <circle cx="22" cy="21" r="5" fill="#BF5AF2" filter="url(#glow_purple)" />
+      <text x="38" y="26" fill="#FFFFFF" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Inter, sans-serif" font-size="13" font-weight="600" letter-spacing="-0.1px">Full Stack</text>
+    </g>
+    <!-- Badge 4: Developer -->
+    <g transform="translate(564, 0)">
+      <rect width="165" height="42" rx="21" fill="#161B22" fill-opacity="0.6" stroke="#30D158" stroke-opacity="0.3" stroke-width="1.2" />
+      <circle cx="22" cy="21" r="5" fill="#30D158" filter="url(#glow_green)" />
+      <text x="38" y="26" fill="#FFFFFF" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Inter, sans-serif" font-size="13" font-weight="600" letter-spacing="-0.1px">Developer</text>
+    </g>
+    <!-- Badge 5: React -->
+    <g transform="translate(752, 0)">
+      <rect width="165" height="42" rx="21" fill="#161B22" fill-opacity="0.6" stroke="#0A84FF" stroke-opacity="0.3" stroke-width="1.2" />
+      <circle cx="22" cy="21" r="5" fill="#0A84FF" filter="url(#glow_cyan)" />
+      <text x="38" y="26" fill="#FFFFFF" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Inter, sans-serif" font-size="13" font-weight="600" letter-spacing="-0.1px">React</text>
+    </g>
+    <!-- Badge 6: Expert -->
+    <g transform="translate(940, 0)">
+      <rect width="165" height="42" rx="21" fill="#161B22" fill-opacity="0.6" stroke="#FFD60A" stroke-opacity="0.3" stroke-width="1.2" />
+      <circle cx="22" cy="21" r="5" fill="#FFD60A" />
+      <text x="38" y="26" fill="#FFFFFF" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Inter, sans-serif" font-size="13" font-weight="600" letter-spacing="-0.1px">Expert</text>
+    </g>
+    <!-- Badge 7: Firebase -->
+    <g transform="translate(1128, 0)">
+      <rect width="165" height="42" rx="21" fill="#161B22" fill-opacity="0.6" stroke="#FF9F0A" stroke-opacity="0.3" stroke-width="1.2" />
+      <circle cx="22" cy="21" r="5" fill="#FF9F0A" filter="url(#glow_orange)" />
+      <text x="38" y="26" fill="#FFFFFF" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Inter, sans-serif" font-size="13" font-weight="600" letter-spacing="-0.1px">Firebase</text>
+    </g>
+    <!-- Badge 8: Cloud -->
+    <g transform="translate(1316, 0)">
+      <rect width="164" height="42" rx="21" fill="#161B22" fill-opacity="0.6" stroke="#FF375F" stroke-opacity="0.3" stroke-width="1.2" />
+      <circle cx="22" cy="21" r="5" fill="#FF375F" />
+      <text x="38" y="26" fill="#FFFFFF" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Inter, sans-serif" font-size="13" font-weight="600" letter-spacing="-0.1px">Cloud</text>
+    </g>
+  </g>
+
+  <!-- SECTION 1: GITHUB ACHIEVEMENTS (Y=235 to 475) -->
+  <g transform="translate(60, 235)">
+    <!-- Glass Card Container -->
+    <rect width="1480" height="240" rx="18" fill="#161B22" fill-opacity="0.4" stroke="#30363D" stroke-width="1.5" filter="url(#shadow)" />
+    <!-- Card Title -->
+    <text x="30" y="38" fill="#FFFFFF" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Inter, sans-serif" font-size="18" font-weight="700">🏅 GitHub Achievements</text>
+    <line x1="30" y1="52" x2="1450" y2="52" stroke="#30363D" stroke-width="1" />
+
+    <!-- Badges Row -->
+    <!-- Badge 1.1: Pull Shark x2 -->
+    <g transform="translate(40, 80)">
+      <!-- Glossy Circle -->
+      <circle cx="45" cy="50" r="32" fill="url(#grad_pull_shark)" />
+      <!-- Fin Vector -->
+      <path d="M32 58 C35 42, 50 36, 56 41 C46 45, 42 52, 42 58 Z" fill="#FFFFFF" />
+      <!-- Text Description -->
+      <text x="92" y="44" fill="#FFFFFF" font-family="-apple-system, BlinkMacSystemFont, sans-serif" font-size="14" font-weight="700">Pull Shark</text>
+      <text x="92" y="61" fill="#8B949E" font-family="-apple-system, sans-serif" font-size="11" font-weight="500">PRs Merged</text>
+      <!-- x2 Badge -->
+      <rect x="165" y="30" width="22" height="15" rx="7.5" fill="#FF375F" />
+      <text x="176" y="41" fill="#FFFFFF" font-family="-apple-system, sans-serif" font-size="9" font-weight="800" text-anchor="middle">x2</text>
+    </g>
+
+    <!-- Badge 1.2: Arctic Code Vault -->
+    <g transform="translate(285, 80)">
+      <circle cx="45" cy="50" r="32" fill="url(#grad_arctic_vault)" />
+      <!-- Snowflake Vector -->
+      <g stroke="#FFFFFF" stroke-width="1.8" stroke-linecap="round">
+        <line x1="45" y1="36" x2="45" y2="64" />
+        <line x1="31" y1="50" x2="59" y2="50" />
+        <line x1="35" y1="40" x2="55" y2="60" />
+        <line x1="35" y1="60" x2="55" y2="40" />
+      </g>
+      <text x="92" y="44" fill="#FFFFFF" font-family="-apple-system, BlinkMacSystemFont, sans-serif" font-size="14" font-weight="700">Arctic Vault</text>
+      <text x="92" y="61" fill="#8B949E" font-family="-apple-system, sans-serif" font-size="11" font-weight="500">Code Preserved</text>
+    </g>
+
+    <!-- Badge 1.3: Quickdraw -->
+    <g transform="translate(530, 80)">
+      <circle cx="45" cy="50" r="32" fill="url(#grad_quickdraw)" />
+      <!-- Lightning Vector -->
+      <path d="M47 36 L36 49 L43 49 L40 64 L53 48 L45 48 Z" fill="#FFFFFF" />
+      <text x="92" y="44" fill="#FFFFFF" font-family="-apple-system, BlinkMacSystemFont, sans-serif" font-size="14" font-weight="700">Quickdraw</text>
+      <text x="92" y="61" fill="#8B949E" font-family="-apple-system, sans-serif" font-size="11" font-weight="500">Closed in Min</text>
+    </g>
+
+    <!-- Badge 1.4: Pair Extraordinaire -->
+    <g transform="translate(775, 80)">
+      <circle cx="45" cy="50" r="32" fill="url(#grad_pair_extra)" />
+      <!-- Rings Vector -->
+      <g stroke="#FFFFFF" stroke-width="2.5" fill="none">
+        <circle cx="41" cy="50" r="8" />
+        <circle cx="51" cy="50" r="8" />
+      </g>
+      <text x="92" y="44" fill="#FFFFFF" font-family="-apple-system, BlinkMacSystemFont, sans-serif" font-size="14" font-weight="700">Pair Extra</text>
+      <text x="92" y="61" fill="#8B949E" font-family="-apple-system, sans-serif" font-size="11" font-weight="500">Co-authored</text>
+      <rect x="165" y="30" width="22" height="15" rx="7.5" fill="#FF375F" />
+      <text x="176" y="41" fill="#FFFFFF" font-family="-apple-system, sans-serif" font-size="9" font-weight="800" text-anchor="middle">x2</text>
+    </g>
+
+    <!-- Badge 1.5: Galaxy Brain -->
+    <g transform="translate(1020, 80)">
+      <circle cx="45" cy="50" r="32" fill="url(#grad_galaxy_brain)" />
+      <!-- Star glow brain vector -->
+      <circle cx="45" cy="50" r="7" fill="#FFFFFF" opacity="0.3" filter="url(#glow_cyan)" />
+      <path d="M39 50 Q45 40 51 50 Q45 60 39 50 Z M45 44 L45 56 M39 50 L51 50" stroke="#FFFFFF" stroke-width="1.5" fill="none" />
+      <text x="92" y="44" fill="#FFFFFF" font-family="-apple-system, BlinkMacSystemFont, sans-serif" font-size="14" font-weight="700">Galaxy Brain</text>
+      <text x="92" y="61" fill="#8B949E" font-family="-apple-system, sans-serif" font-size="11" font-weight="500">Answers Accepted</text>
+    </g>
+
+    <!-- Badge 1.6: YOLO -->
+    <g transform="translate(1265, 80)">
+      <circle cx="45" cy="50" r="32" fill="url(#grad_yolo)" />
+      <text x="45" y="55" fill="#FFFFFF" font-family="-apple-system, BlinkMacSystemFont, sans-serif" font-size="13" font-weight="900" text-anchor="middle" letter-spacing="-0.5px">YOLO</text>
+      <text x="92" y="44" fill="#FFFFFF" font-family="-apple-system, BlinkMacSystemFont, sans-serif" font-size="14" font-weight="700">YOLO</text>
+      <text x="92" y="61" fill="#8B949E" font-family="-apple-system, sans-serif" font-size="11" font-weight="500">Direct Merge</text>
+    </g>
+  </g>
+
+  <!-- SECTION 2 & 3: TROPHIES & STREAK (Y=495 to 775, side-by-side) -->
+  <!-- Left Glass Card: GitHub Trophies -->
+  <g transform="translate(60, 495)">
+    <rect width="710" height="280" rx="18" fill="#161B22" fill-opacity="0.4" stroke="#30363D" stroke-width="1.5" filter="url(#shadow)" />
+    <text x="30" y="38" fill="#FFFFFF" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Inter, sans-serif" font-size="18" font-weight="700">🏆 GitHub Trophies</text>
+    <line x1="30" y1="52" x2="680" y2="52" stroke="#30363D" stroke-width="1" />
+
+    <!-- Center placeholder representing Trophy Widget -->
+    <g transform="translate(30, 75)">
+      <rect width="650" height="175" rx="12" fill="#0D1117" fill-opacity="0.8" stroke="#30363D" stroke-width="1.5" stroke-dasharray="6,4" />
+      <!-- Decorative Trophy Outline Artwork in Placeholder -->
+      <g transform="translate(110, 32)">
+        <path d="M50 30c0-11-9-20-20-20s-20 9-20 20c0 8.3 5 15.3 12.3 18.3v11.5h-8c-1.5 0-2.5 1-2.5 2.5s1 2.5 2.5 2.5h21c1.5 0 2.5-1 2.5-2.5s-1-2.5-2.5-2.5h-8V48.3c7.3-3 12.3-10 12.3-18.3zm-30.3 16.3c-1.3-2.5-3-4.5-5.3-6l-1-.5V52c3.3-.5 5.3-3 6.3-6.5zm20.6 0c1 3.5 3 6 6.3 6.5V39.8l-1 .5c-2.3 1.5-4 3.5-5.3 6z" fill="#30363D" opacity="0.3" transform="scale(1.5)" />
+      </g>
+      <text x="325" y="85" fill="#8B949E" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Inter, sans-serif" font-size="15" font-weight="700" text-anchor="middle">GitHub Trophy Widget</text>
+      <text x="325" y="108" fill="#58A6FF" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Inter, sans-serif" font-size="12" font-weight="500" text-anchor="middle">github-profile-trophy.vercel.app</text>
+      <text x="325" y="132" fill="#484F58" font-family="monospace" font-size="11" text-anchor="middle">Dimensions: 650px × 170px (Reserved Space)</text>
+    </g>
+  </g>
+
+  <!-- Right Glass Card: Contribution Streak -->
+  <g transform="translate(830, 495)">
+    <rect width="710" height="280" rx="18" fill="#161B22" fill-opacity="0.4" stroke="#30363D" stroke-width="1.5" filter="url(#shadow)" />
+    <text x="30" y="38" fill="#FFFFFF" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Inter, sans-serif" font-size="18" font-weight="700">🔥 Contribution Streak</text>
+    <line x1="30" y1="52" x2="680" y2="52" stroke="#30363D" stroke-width="1" />
+
+    <!-- Space mimicking streak-stats.demolab.com -->
+    <g transform="translate(30, 75)">
+      <rect width="650" height="175" rx="12" fill="#0D1117" stroke="#FF6B00" stroke-opacity="0.15" stroke-width="1.5" />
+      
+      <!-- Statistics Columns -->
+      <!-- Column 1: Total Contributions -->
+      <g transform="translate(40, 30)">
+        <text x="60" y="24" fill="#8B949E" font-family="-apple-system, sans-serif" font-size="12" font-weight="600" text-anchor="middle">Total Contributions</text>
+        <text x="60" y="74" fill="#FFFFFF" font-family="-apple-system, sans-serif" font-size="34" font-weight="800" text-anchor="middle">1,482</text>
+        <text x="60" y="104" fill="#30D158" font-family="-apple-system, sans-serif" font-size="11" font-weight="600" text-anchor="middle">▲ 24% this month</text>
+      </g>
+
+      <!-- Column 2: Current Streak -->
+      <g transform="translate(265, 30)">
+        <text x="60" y="24" fill="#FF6B00" font-family="-apple-system, sans-serif" font-size="12" font-weight="700" text-anchor="middle">Current Streak</text>
+        <text x="60" y="74" fill="#FF6B00" font-family="-apple-system, sans-serif" font-size="40" font-weight="900" text-anchor="middle">18</text>
+        <text x="60" y="104" fill="#8B949E" font-family="-apple-system, sans-serif" font-size="11" font-weight="500" text-anchor="middle">June 16 - July 04</text>
+        <!-- Mini fire emblem -->
+        <path d="M100,55 Q104,42 100,34 Q112,46 104,63 Q96,63 100,55 Z" fill="#FF6B00" />
+      </g>
+
+      <!-- Column 3: Longest Streak -->
+      <g transform="translate(490, 30)">
+        <text x="60" y="24" fill="#8B949E" font-family="-apple-system, sans-serif" font-size="12" font-weight="600" text-anchor="middle">Longest Streak</text>
+        <text x="60" y="74" fill="#FFFFFF" font-family="-apple-system, sans-serif" font-size="34" font-weight="800" text-anchor="middle">124</text>
+        <text x="60" y="104" fill="#8B949E" font-family="-apple-system, sans-serif" font-size="11" font-weight="500" text-anchor="middle">days in 2025</text>
+      </g>
+      
+      <!-- Inner grid splitters -->
+      <line x1="225" y1="25" x2="225" y2="145" stroke="#30363D" stroke-width="1" />
+      <line x1="450" y1="25" x2="450" y2="145" stroke="#30363D" stroke-width="1" />
+    </g>
+  </g>
+
+  <!-- SECTION 4: CONTRIBUTION GRAPH (Y=795 to 1115) -->
+  <g transform="translate(60, 795)">
+    <rect width="1480" height="320" rx="18" fill="#161B22" fill-opacity="0.4" stroke="#30363D" stroke-width="1.5" filter="url(#shadow)" />
+    <text x="30" y="38" fill="#FFFFFF" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Inter, sans-serif" font-size="18" font-weight="700">📈 Contribution Graph</text>
+    <line x1="30" y1="52" x2="1450" y2="52" stroke="#30363D" stroke-width="1" />
+
+    <!-- Flowing Neon Activity Area -->
+    <g transform="translate(90, 75)">
+      <!-- Grid Lines -->
+      <line x1="0" y1="20" x2="1300" y2="20" stroke="#30363D" stroke-opacity="0.4" stroke-dasharray="4,4" />
+      <line x1="0" y1="60" x2="1300" y2="60" stroke="#30363D" stroke-opacity="0.4" stroke-dasharray="4,4" />
+      <line x1="0" y1="100" x2="1300" y2="100" stroke="#30363D" stroke-opacity="0.4" stroke-dasharray="4,4" />
+      <line x1="0" y1="140" x2="1300" y2="140" stroke="#30363D" stroke-opacity="0.4" stroke-dasharray="4,4" />
+      <line x1="0" y1="180" x2="1300" y2="180" stroke="#30363D" stroke-opacity="0.6" />
+      
+      <!-- Flowing Area Fills & Neon Curves -->
+      <defs>
+        <linearGradient id="chartGlowGrad_achievements" x1="0%" y1="0%" x2="0%" y2="100%">
+          <stop offset="0%" stop-color="#FF6B00" stop-opacity="0.25" />
+          <stop offset="100%" stop-color="#FF6B00" stop-opacity="0" />
+        </linearGradient>
+      </defs>
+
+      <!-- Curves and Points -->
+      <path d="M 0 180 Q 100 130 200 150 T 400 60 T 600 120 T 800 40 T 1000 110 T 1200 50 L 1300 80 L 1300 180 L 0 180 Z" fill="url(#chartGlowGrad_achievements)" />
+      <path d="M 0 180 Q 100 130 200 150 T 400 60 T 600 120 T 800 40 T 1000 110 T 1200 50 L 1300 80" fill="none" stroke="#FF6B00" stroke-width="3.5" filter="url(#glow_orange)" />
+      <path d="M 0 180 Q 120 160 240 120 T 480 140 T 720 90 T 960 150 T 1200 130 L 1300 110" fill="none" stroke="#00D2FF" stroke-width="2" filter="url(#glow_cyan)" />
+
+      <!-- High contrast scatter points -->
+      <circle cx="200" cy="150" r="4.5" fill="#FFFFFF" stroke="#FF6B00" stroke-width="2.5" />
+      <circle cx="400" cy="60" r="4.5" fill="#FFFFFF" stroke="#FF6B00" stroke-width="2.5" />
+      <circle cx="600" cy="120" r="4.5" fill="#FFFFFF" stroke="#FF6B00" stroke-width="2.5" />
+      <circle cx="800" cy="40" r="4.5" fill="#FFFFFF" stroke="#FF6B00" stroke-width="2.5" />
+      <circle cx="1000" cy="110" r="4.5" fill="#FFFFFF" stroke="#FF6B00" stroke-width="2.5" />
+      <circle cx="1200" cy="50" r="4.5" fill="#FFFFFF" stroke="#FF6B00" stroke-width="2.5" />
+
+      <!-- Timeline scale x axis labels -->
+      <text x="5" y="202" fill="#8B949E" font-family="-apple-system, sans-serif" font-size="11" font-weight="600">Jan</text>
+      <text x="120" y="202" fill="#8B949E" font-family="-apple-system, sans-serif" font-size="11" font-weight="600">Feb</text>
+      <text x="240" y="202" fill="#8B949E" font-family="-apple-system, sans-serif" font-size="11" font-weight="600">Mar</text>
+      <text x="360" y="202" fill="#8B949E" font-family="-apple-system, sans-serif" font-size="11" font-weight="600">Apr</text>
+      <text x="480" y="202" fill="#8B949E" font-family="-apple-system, sans-serif" font-size="11" font-weight="600">May</text>
+      <text x="600" y="202" fill="#8B949E" font-family="-apple-system, sans-serif" font-size="11" font-weight="600">Jun</text>
+      <text x="720" y="202" fill="#8B949E" font-family="-apple-system, sans-serif" font-size="11" font-weight="600">Jul</text>
+      <text x="840" y="202" fill="#8B949E" font-family="-apple-system, sans-serif" font-size="11" font-weight="600">Aug</text>
+      <text x="960" y="202" fill="#8B949E" font-family="-apple-system, sans-serif" font-size="11" font-weight="600">Sep</text>
+      <text x="1080" y="202" fill="#8B949E" font-family="-apple-system, sans-serif" font-size="11" font-weight="600">Oct</text>
+      <text x="1200" y="202" fill="#8B949E" font-family="-apple-system, sans-serif" font-size="11" font-weight="600">Nov</text>
+      <text x="1295" y="202" fill="#8B949E" font-family="-apple-system, sans-serif" font-size="11" font-weight="600" text-anchor="end">Dec</text>
+      
+      <!-- Interactive Widget Indicators Legend -->
+      <g transform="translate(1080, -12)">
+        <rect x="0" y="0" rx="3" width="10" height="10" fill="#FF6B00" />
+        <text x="16" y="9" fill="#8B949E" font-family="-apple-system, sans-serif" font-size="11" font-weight="600">Commits</text>
+        <rect x="90" y="0" rx="3" width="10" height="10" fill="#00D2FF" />
+        <text x="106" y="9" fill="#8B949E" font-family="-apple-system, sans-serif" font-size="11" font-weight="600">PR Merges</text>
+      </g>
+    </g>
+  </g>
+
+  <!-- SECTION 5: CONTRIBUTION SNAKE (Y=1135 to 1335) -->
+  <g transform="translate(60, 1135)">
+    <rect width="1480" height="200" rx="18" fill="#161B22" fill-opacity="0.4" stroke="#30363D" stroke-width="1.5" filter="url(#shadow)" />
+    <text x="30" y="38" fill="#FFFFFF" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Inter, sans-serif" font-size="18" font-weight="700">🐍 Contribution Snake</text>
+    <line x1="30" y1="52" x2="1450" y2="52" stroke="#30363D" stroke-width="1" />
+
+    <!-- Grid representation centering placeholder for snake game -->
+    <g transform="translate(300, 75)">
+      <!-- Dotted placeholder panel for dynamic SVG loading -->
+      <rect x="0" y="0" width="880" height="100" rx="10" fill="#0D1117" fill-opacity="0.7" stroke="#30363D" stroke-width="1.2" stroke-dasharray="4,4" />
+      
+      <!-- Snake Board Mock Cells -->
+      <g transform="translate(45, 18)">
+        <!-- Row 1 of board cells -->
+        <g transform="translate(0, 0)" fill="#161b22">
+          <rect width="10" height="10" rx="2" /><rect x="13" width="10" height="10" rx="2" fill="#0e4429" /><rect x="26" width="10" height="10" rx="2" /><rect x="39" width="10" height="10" rx="2" /><rect x="52" width="10" height="10" rx="2" fill="#00c647" /><rect x="65" width="10" height="10" rx="2" />
+          <rect x="78" width="10" height="10" rx="2" fill="#26a641" /><rect x="91" width="10" height="10" rx="2" /><rect x="104" width="10" height="10" rx="2" /><rect x="117" width="10" height="10" rx="2" fill="#0e4429" /><rect x="130" width="10" height="10" rx="2" /><rect x="143" width="10" height="10" rx="2" />
+        </g>
+        <!-- Row 2 of board cells -->
+        <g transform="translate(0, 13)" fill="#161b22">
+          <rect width="10" height="10" rx="2" /><rect x="13" width="10" height="10" rx="2" /><rect x="26" width="10" height="10" rx="2" fill="#39d353" /><rect x="39" width="10" height="10" rx="2" fill="#0e4429" /><rect x="52" width="10" height="10" rx="2" /><rect x="65" width="10" height="10" rx="2" fill="#26a641" />
+          <rect x="78" width="10" height="10" rx="2" /><rect x="91" width="10" height="10" rx="2" /><rect x="104" width="10" height="10" rx="2" fill="#FF9F0A" filter="url(#glow_orange)" /><rect x="117" width="10" height="10" rx="2" /><rect x="130" width="10" height="10" rx="2" fill="#39d353" /><rect x="143" width="10" height="10" rx="2" />
+        </g>
+        <!-- Row 3 of board cells -->
+        <g transform="translate(0, 26)" fill="#161b22">
+          <rect width="10" height="10" rx="2" fill="#0e4429" /><rect x="13" width="10" height="10" rx="2" /><rect x="26" width="10" height="10" rx="2" /><rect x="39" width="10" height="10" rx="2" fill="#39d353" /><rect x="52" width="10" height="10" rx="2" fill="#26a641" /><rect x="65" width="10" height="10" rx="2" />
+          <rect x="78" width="10" height="10" rx="2" /><rect x="91" width="10" height="10" rx="2" fill="#00c647" filter="url(#glow_green)" /><rect x="104" width="10" height="10" rx="2" fill="#30d158" filter="url(#glow_green)" /><rect x="117" width="10" height="10" rx="2" fill="#30d158" filter="url(#glow_green)" /><rect x="130" width="10" height="10" rx="2" /><rect x="143" width="10" height="10" rx="2" />
+        </g>
+        <!-- Row 4 of board cells -->
+        <g transform="translate(0, 39)" fill="#161b22">
+          <rect width="10" height="10" rx="2" /><rect x="13" width="10" height="10" rx="2" fill="#26a641" /><rect x="26" width="10" height="10" rx="2" /><rect x="39" width="10" height="10" rx="2" /><rect x="52" width="10" height="10" rx="2" /><rect x="65" width="10" height="10" rx="2" fill="#0e4429" />
+          <rect x="78" width="10" height="10" rx="2" /><rect x="91" width="10" height="10" rx="2" /><rect x="104" width="10" height="10" rx="2" /><rect x="117" width="10" height="10" rx="2" fill="#30d158" filter="url(#glow_green)" /><rect x="130" width="10" height="10" rx="2" /><rect x="143" width="10" height="10" rx="2" />
+        </g>
+      </g>
+
+      <!-- Snake crawl curve vector overlay -->
+      <!-- The cute 3D-looking green snake crawling and eating -->
+      <g transform="translate(45, 18)">
+        <!-- Animated glow body trail -->
+        <rect x="117" y="26" width="10" height="23" rx="2" fill="#30D158" opacity="0.85" filter="url(#glow_green)" />
+        <rect x="91" y="26" width="36" height="10" rx="2" fill="#30D158" opacity="0.85" filter="url(#glow_green)" />
+        <!-- Head of snake with eyes -->
+        <rect x="88" y="24" width="14" height="14" rx="4" fill="#15B53B" stroke="#FFFFFF" stroke-opacity="0.3" stroke-width="1" />
+        <circle cx="92" cy="28" r="1.5" fill="#FFFFFF" />
+        <circle cx="92" cy="34" r="1.5" fill="#FFFFFF" />
+        <circle cx="92" cy="28" r="0.7" fill="#000000" />
+        <circle cx="92" cy="34" r="0.7" fill="#000000" />
+        <!-- Red tongue flicking out -->
+        <path d="M88 29 L82 29 L80 27 M82 29 L80 31" stroke="#FF375F" stroke-width="1.2" fill="none" />
+      </g>
+
+      <text x="490" y="48" fill="#8B949E" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Inter, sans-serif" font-size="14" font-weight="700">github-contribution-grid-snake-dark.svg</text>
+      <text x="490" y="68" fill="#30D158" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Inter, sans-serif" font-size="11" font-weight="500">Auto-regenerates on every commit hook</text>
+    </g>
+  </g>
+
+  <!-- BOTTOM FOOTER -->
+  <g transform="translate(800, 1390)">
+    <text fill="#8B949E" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Inter, sans-serif" font-size="13" font-weight="600" text-anchor="middle" letter-spacing="0.2px">Building exceptional software one commit at a time.</text>
+    <text y="20" fill="#484F58" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Inter, sans-serif" font-size="10" font-weight="500" text-anchor="middle">© 2026 • Apple Human Interface Design Blueprint • Validated SVG Vector Map</text>
+  </g>
+</svg>
