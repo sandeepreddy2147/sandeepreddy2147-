@@ -42,33 +42,45 @@
 
 <hr style="border: 0; border-top: 1px solid rgba(255, 107, 0, 0.15); margin: 40px 0;" />
 
+<!-- ========================================= -->
 <!-- 5. GITHUB ANALYTICS -->
-<!-- 
-  📢 TROUBLESHOOTING GITHUB STATS & TROPHIES (IF YOU SEE 402, 404, OR BROKEN IMAGES):
-  - 402/Rate-Limited: The public instances of github-readme-stats can be heavily rate-limited by GitHub.
-  - Solution 1: Deploy your own free instance on Vercel (highly recommended) by clicking "Deploy to Vercel" on https://github.com/anuraghazra/github-readme-stats and use your custom Vercel URL here.
-  - Solution 2: Replace "github-readme-stats.vercel.app" with a public mirror like "github-readme-stats-eight-gray.vercel.app" or "github-readme-stats-anuraghazra.vercel.app".
-  - Solution 3: Ensure your GitHub username "sandeepreddy2147" is spelled correctly and your profile is public.
--->
+<!-- ========================================= -->
+
 <div align="center">
-  <h2 style="font-family: -apple-system, BlinkMacSystemFont, sans-serif; font-weight: 800; font-size: 24px; color: #FFFFFF; margin-bottom: 24px; letter-spacing: -0.5px;">📊 Analytics &amp; Repository Diagnostics</h2>
-  
-  <!-- Grid alignment layout -->
-  <table width="100%" border="0" cellpadding="5" cellspacing="0">
-    <tr>
-      <td width="50%" align="center" valign="middle">
-        <img
-src="https://github-readme-stats.vercel.app/api?username=sandeepreddy2147&show_icons=true&count_private=true&theme=default&icon_color=FF6B00&text_color=333333&bg_color=ffffff&border_color=E4E4E7"
-width="100%" />
-      </td>
-      <td width="50%" align="center" valign="middle">
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sandeepreddy2147&theme=default" alt="Profile views and summary" width="100%" style="max-width: 400px; border-radius: 8px;" />
-      </td>
-    </tr>
-  </table>
+
+<h2 style="font-family:-apple-system,BlinkMacSystemFont,sans-serif;font-weight:800;font-size:24px;color:#FFFFFF;margin-bottom:24px;letter-spacing:-0.5px;">
+📊 Analytics & Repository Diagnostics
+</h2>
+
+<table width="100%" border="0" cellpadding="5" cellspacing="0">
+<tr>
+
+<td width="50%" align="center" valign="middle">
+
+<img
+src="https://github-readme-streak-stats.herokuapp.com?user=sandeepreddy2147&theme=default&ring=FF6B00&fire=FF6B00&currStreakLabel=FF6B00&border=E4E4E7"
+alt="GitHub Streak"
+width="100%"
+style="max-width:400px;border-radius:8px;" />
+
+</td>
+
+<td width="50%" align="center" valign="middle">
+
+<img
+src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sandeepreddy2147&theme=default"
+alt="GitHub Profile Summary"
+width="100%"
+style="max-width:400px;border-radius:8px;" />
+
+</td>
+
+</tr>
+</table>
+
 </div>
 
-<hr style="border: 0; border-top: 1px solid rgba(255, 107, 0, 0.15); margin: 40px 0;" />
+<hr style="border:0;border-top:1px solid rgba(255,107,0,.15);margin:40px 0;" />
 
 <!-- 6. FEATURED PROJECTS -->
 <div align="left">
