@@ -7,12 +7,12 @@
   </defs>
 
   <!-- Background -->
-  <rect width="1100" height="180" rx="12" fill="#0D0D11" stroke="#FF6B00" stroke-opacity="0.15" stroke-width="1" />
+  <rect width="1100" height="180" rx="12" fill="#FAF9F6" stroke="#FF6B00" stroke-opacity="0.1" stroke-width="1" />
   
   <!-- Subtle grid pattern -->
-  <g opacity="0.02">
-    <path d="M0,30 L1100,30 M0,60 L1100,60 M0,90 L1100,90 M0,120 L1100,120 M0,150 L1100,150" stroke="#FFFFFF" stroke-width="1" />
-    <path d="M110,0 L110,180 M220,0 L220,180 M330,0 L330,180 M440,0 L440,180 M550,0 L550,180 M660,0 L660,180 M770,0 L770,180 M880,0 L880,180 M990,0 L990,180" stroke="#FFFFFF" stroke-width="1" />
+  <g opacity="0.04">
+    <path d="M0,30 L1100,30 M0,60 L1100,60 M0,90 L1100,90 M0,120 L1100,120 M0,150 L1100,150" stroke="#000000" stroke-width="1" />
+    <path d="M110,0 L110,180 M220,0 L220,180 M330,0 L330,180 M440,0 L440,180 M550,0 L550,180 M660,0 L660,180 M770,0 L770,180 M880,0 L880,180 M990,0 L990,180" stroke="#000000" stroke-width="1" />
   </g>
 
   <!-- Flow Connecting Line -->
@@ -29,9 +29,9 @@
 
       <g transform="translate(110, 35)">
         <!-- Shadow plate -->
-        <rect x="-63" y="2" width="130" height="110" rx="10" fill="#000000" fill-opacity="0.3" />
+        <rect x="-63" y="2" width="130" height="110" rx="10" fill="#000000" fill-opacity="0.06" />
         <!-- Card outer -->
-        <rect x="-65" y="0" width="130" height="110" rx="10" fill="#15151C" stroke="#FF6B00" stroke-opacity="0.15" stroke-width="1" />
+        <rect x="-65" y="0" width="130" height="110" rx="10" fill="#FFFFFF" stroke="#FF6B00" stroke-opacity="0.12" stroke-width="1" />
         <!-- Glowing Node on flow line -->
         <circle cx="0" cy="55" r="4" fill="#FF6B00" />
         <circle cx="0" cy="55" r="7" fill="none" stroke="#FF6B00" stroke-width="1" stroke-opacity="0.5" />
@@ -43,10 +43,10 @@
       </g>
         
         <!-- Title -->
-        <text x="0" y="65" fill="#FFFFFF" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="bold" text-anchor="middle" letter-spacing="1">IDEA</text>
+        <text x="0" y="65" fill="#18181B" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="bold" text-anchor="middle" letter-spacing="1">IDEA</text>
         
         <!-- Description -->
-        <text x="0" y="85" fill="#7A7A86" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="bold" text-anchor="middle">
+        <text x="0" y="85" fill="#52525B" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="bold" text-anchor="middle">
           Scope &amp; Architecture
         </text>
       </g>
@@ -60,9 +60,9 @@
 
       <g transform="translate(285, 35)">
         <!-- Shadow plate -->
-        <rect x="-63" y="2" width="130" height="110" rx="10" fill="#000000" fill-opacity="0.3" />
+        <rect x="-63" y="2" width="130" height="110" rx="10" fill="#000000" fill-opacity="0.06" />
         <!-- Card outer -->
-        <rect x="-65" y="0" width="130" height="110" rx="10" fill="#15151C" stroke="#FF6B00" stroke-opacity="0.15" stroke-width="1" />
+        <rect x="-65" y="0" width="130" height="110" rx="10" fill="#FFFFFF" stroke="#FF6B00" stroke-opacity="0.12" stroke-width="1" />
         <!-- Glowing Node on flow line -->
         <circle cx="0" cy="55" r="4" fill="#FF6B00" />
         <circle cx="0" cy="55" r="7" fill="none" stroke="#FF6B00" stroke-width="1" stroke-opacity="0.5" />
@@ -76,10 +76,10 @@
       </g>
         
         <!-- Title -->
-        <text x="0" y="65" fill="#FFFFFF" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="bold" text-anchor="middle" letter-spacing="1">DESIGN</text>
+        <text x="0" y="65" fill="#18181B" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="bold" text-anchor="middle" letter-spacing="1">DESIGN</text>
         
         <!-- Description -->
-        <text x="0" y="85" fill="#7A7A86" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="bold" text-anchor="middle">
+        <text x="0" y="85" fill="#52525B" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="bold" text-anchor="middle">
           Figma &amp; Interaction
         </text>
       </g>
@@ -93,9 +93,9 @@
 
       <g transform="translate(460, 35)">
         <!-- Shadow plate -->
-        <rect x="-63" y="2" width="130" height="110" rx="10" fill="#000000" fill-opacity="0.3" />
+        <rect x="-63" y="2" width="130" height="110" rx="10" fill="#000000" fill-opacity="0.06" />
         <!-- Card outer -->
-        <rect x="-65" y="0" width="130" height="110" rx="10" fill="#15151C" stroke="#FF6B00" stroke-opacity="0.15" stroke-width="1" />
+        <rect x="-65" y="0" width="130" height="110" rx="10" fill="#FFFFFF" stroke="#FF6B00" stroke-opacity="0.12" stroke-width="1" />
         <!-- Glowing Node on flow line -->
         <circle cx="0" cy="55" r="4" fill="#FF6B00" />
         <circle cx="0" cy="55" r="7" fill="none" stroke="#FF6B00" stroke-width="1" stroke-opacity="0.5" />
@@ -106,10 +106,10 @@
       </g>
         
         <!-- Title -->
-        <text x="0" y="65" fill="#FFFFFF" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="bold" text-anchor="middle" letter-spacing="1">DEVELOP</text>
+        <text x="0" y="65" fill="#18181B" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="bold" text-anchor="middle" letter-spacing="1">DEVELOP</text>
         
         <!-- Description -->
-        <text x="0" y="85" fill="#7A7A86" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="bold" text-anchor="middle">
+        <text x="0" y="85" fill="#52525B" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="bold" text-anchor="middle">
           Clean &amp; Scalable Code
         </text>
       </g>
@@ -123,9 +123,9 @@
 
       <g transform="translate(635, 35)">
         <!-- Shadow plate -->
-        <rect x="-63" y="2" width="130" height="110" rx="10" fill="#000000" fill-opacity="0.3" />
+        <rect x="-63" y="2" width="130" height="110" rx="10" fill="#000000" fill-opacity="0.06" />
         <!-- Card outer -->
-        <rect x="-65" y="0" width="130" height="110" rx="10" fill="#15151C" stroke="#FF6B00" stroke-opacity="0.15" stroke-width="1" />
+        <rect x="-65" y="0" width="130" height="110" rx="10" fill="#FFFFFF" stroke="#FF6B00" stroke-opacity="0.12" stroke-width="1" />
         <!-- Glowing Node on flow line -->
         <circle cx="0" cy="55" r="4" fill="#FF6B00" />
         <circle cx="0" cy="55" r="7" fill="none" stroke="#FF6B00" stroke-width="1" stroke-opacity="0.5" />
@@ -137,10 +137,10 @@
       </g>
         
         <!-- Title -->
-        <text x="0" y="65" fill="#FFFFFF" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="bold" text-anchor="middle" letter-spacing="1">TEST</text>
+        <text x="0" y="65" fill="#18181B" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="bold" text-anchor="middle" letter-spacing="1">TEST</text>
         
         <!-- Description -->
-        <text x="0" y="85" fill="#7A7A86" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="bold" text-anchor="middle">
+        <text x="0" y="85" fill="#52525B" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="bold" text-anchor="middle">
           QA &amp; Verification
         </text>
       </g>
@@ -154,9 +154,9 @@
 
       <g transform="translate(810, 35)">
         <!-- Shadow plate -->
-        <rect x="-63" y="2" width="130" height="110" rx="10" fill="#000000" fill-opacity="0.3" />
+        <rect x="-63" y="2" width="130" height="110" rx="10" fill="#000000" fill-opacity="0.06" />
         <!-- Card outer -->
-        <rect x="-65" y="0" width="130" height="110" rx="10" fill="#15151C" stroke="#FF6B00" stroke-opacity="0.15" stroke-width="1" />
+        <rect x="-65" y="0" width="130" height="110" rx="10" fill="#FFFFFF" stroke="#FF6B00" stroke-opacity="0.12" stroke-width="1" />
         <!-- Glowing Node on flow line -->
         <circle cx="0" cy="55" r="4" fill="#FF6B00" />
         <circle cx="0" cy="55" r="7" fill="none" stroke="#FF6B00" stroke-width="1" stroke-opacity="0.5" />
@@ -167,10 +167,10 @@
       </g>
         
         <!-- Title -->
-        <text x="0" y="65" fill="#FFFFFF" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="bold" text-anchor="middle" letter-spacing="1">DEPLOY</text>
+        <text x="0" y="65" fill="#18181B" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="bold" text-anchor="middle" letter-spacing="1">DEPLOY</text>
         
         <!-- Description -->
-        <text x="0" y="85" fill="#7A7A86" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="bold" text-anchor="middle">
+        <text x="0" y="85" fill="#52525B" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="bold" text-anchor="middle">
           CI/CD &amp; Cloud Ingress
         </text>
       </g>
@@ -180,9 +180,9 @@
 
       <g transform="translate(985, 35)">
         <!-- Shadow plate -->
-        <rect x="-63" y="2" width="130" height="110" rx="10" fill="#000000" fill-opacity="0.3" />
+        <rect x="-63" y="2" width="130" height="110" rx="10" fill="#000000" fill-opacity="0.06" />
         <!-- Card outer -->
-        <rect x="-65" y="0" width="130" height="110" rx="10" fill="#15151C" stroke="#FF6B00" stroke-opacity="0.15" stroke-width="1" />
+        <rect x="-65" y="0" width="130" height="110" rx="10" fill="#FFFFFF" stroke="#FF6B00" stroke-opacity="0.12" stroke-width="1" />
         <!-- Glowing Node on flow line -->
         <circle cx="0" cy="55" r="4" fill="#FF6B00" />
         <circle cx="0" cy="55" r="7" fill="none" stroke="#FF6B00" stroke-width="1" stroke-opacity="0.5" />
@@ -194,10 +194,10 @@
       </g>
         
         <!-- Title -->
-        <text x="0" y="65" fill="#FFFFFF" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="bold" text-anchor="middle" letter-spacing="1">MAINTAIN</text>
+        <text x="0" y="65" fill="#18181B" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="bold" text-anchor="middle" letter-spacing="1">MAINTAIN</text>
         
         <!-- Description -->
-        <text x="0" y="85" fill="#7A7A86" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="bold" text-anchor="middle">
+        <text x="0" y="85" fill="#52525B" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="bold" text-anchor="middle">
           Monitoring &amp; Scaling
         </text>
       </g>
