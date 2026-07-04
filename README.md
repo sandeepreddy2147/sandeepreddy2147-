@@ -4,7 +4,7 @@
 <div align="center">
 
   <!-- 1. PREMIUM HERO BANNER -->
-  <img src="./assets/hero-banner.svg" alt="Byreddy Venkata Sandeep Reddy - Full Stack Engineer • SaaS Builder • Firebase Developer" width="100%" style="border-radius: 16px; margin-bottom: 24px;" />
+  <img src="assets/hero-banner-light.svg" alt="Byreddy Venkata Sandeep Reddy - Full Stack Engineer • SaaS Builder • Firebase Developer" width="100%" style="border-radius: 16px; margin-bottom: 24px;" />
 
   <!-- 2. ANIMATED TYPING SUB-TITLE -->
   <a href="https://byreddy-venkata-sandeep-reddy.vercel.app" target="_blank">
