@@ -74,7 +74,7 @@
   <table width="100%" border="0" cellpadding="5" cellspacing="0">
     <tr>
       <td width="50%" align="center" valign="middle">
-        <img src="https://github-readme-stats.vercel.app/api?username=sandeepreddy2147&show_icons=true&count_private=true&theme=default&icon_color=FF6B00&text_color=333333&bg_color=ffffff&border_color=E4E4E7" alt="GitHub Stats" width="100%" style="max-width: 400px; border-radius: 8px;" />
+        <img src="https://github-readme-stats-eight-gray.vercel.app/api?username=sandeepreddy2147&show_icons=true&count_private=true&theme=default&icon_color=FF6B00&text_color=333333&bg_color=ffffff&border_color=E4E4E7" alt="GitHub Stats" width="100%" style="max-width: 400px; border-radius: 8px;" />
       </td>
       <td width="50%" align="center" valign="middle">
         <img src="https://github-readme-streak-stats.herokuapp.com/?user=sandeepreddy2147&theme=default&icon_color=FF6B00&text_color=333333&bg_color=ffffff&border_color=E4E4E7" alt="GitHub Streak" width="100%" style="max-width: 400px; border-radius: 8px;" />
@@ -82,7 +82,7 @@
     </tr>
     <tr>
       <td width="50%" align="center" valign="middle" style="padding-top: 15px;">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sandeepreddy2147&layout=compact&langs_count=8&theme=default&icon_color=FF6B00&text_color=333333&bg_color=ffffff&border_color=E4E4E7" alt="Top Languages" width="100%" style="max-width: 400px; border-radius: 8px;" />
+        <img src="https://github-readme-stats-eight-gray.vercel.app/api/top-langs/?username=sandeepreddy2147&layout=compact&langs_count=8&theme=default&icon_color=FF6B00&text_color=333333&bg_color=ffffff&border_color=E4E4E7" alt="Top Languages" width="100%" style="max-width: 400px; border-radius: 8px;" />
       </td>
       <td width="50%" align="center" valign="middle" style="padding-top: 15px;">
         <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sandeepreddy2147&theme=default" alt="Profile views and summary" width="100%" style="max-width: 400px; border-radius: 8px;" />
