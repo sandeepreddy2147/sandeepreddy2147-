@@ -95,22 +95,28 @@
   <table width="100%" border="0" cellpadding="8" cellspacing="0">
 <tr>
 <td width="50%" valign="top">
-<div align="center">
-  <a href="https://www.hotbers.in" target="_blank">
-    <img src="./assets/project-hotbers.svg" alt="HOTBERS" width="100%" style="border-radius: 12px;" />
-  </a>
-  <div align="center" style="margin-top: 10px; margin-bottom: 15px;">
+<div align="left" style="border: 1px solid rgba(255, 107, 0, 0.15); border-radius: 12px; padding: 20px; background: #0D0D11; min-height: 240px; margin-bottom: 10px;">
+  <span style="font-family: -apple-system, BlinkMacSystemFont, sans-serif; font-size: 10px; font-weight: bold; color: #FF6B00; letter-spacing: 1px; display: block; margin-bottom: 6px;">FEATURED SYSTEM</span>
+  <h3 style="margin: 0 0 10px 0; color: #FFFFFF; font-family: -apple-system, BlinkMacSystemFont, sans-serif; font-size: 18px; font-weight: 800;">HOTBERS</h3>
+  <p style="margin: 0 0 15px 0; color: #8F8F9F; font-family: -apple-system, BlinkMacSystemFont, sans-serif; font-size: 13px; line-height: 1.5; min-height: 60px;">A complete, production-grade cloud SaaS built to help paying guest owners streamline customer onboarding, room assignments, auto-invoicing, bookings, payments, and live complaints management. Integrates complex dashboards for both owners and renters.</p>
+  <div style="margin-bottom: 20px; min-height: 35px;">
+    <code style="background: rgba(255, 107, 0, 0.08); color: #FF6B00; font-size: 11px; padding: 2px 6px; border-radius: 4px; margin-right: 4px; border: 1px solid rgba(255, 107, 0, 0.15); margin-bottom: 5px; display: inline-block;">React</code><code style="background: rgba(255, 107, 0, 0.08); color: #FF6B00; font-size: 11px; padding: 2px 6px; border-radius: 4px; margin-right: 4px; border: 1px solid rgba(255, 107, 0, 0.15); margin-bottom: 5px; display: inline-block;">Firebase</code><code style="background: rgba(255, 107, 0, 0.08); color: #FF6B00; font-size: 11px; padding: 2px 6px; border-radius: 4px; margin-right: 4px; border: 1px solid rgba(255, 107, 0, 0.15); margin-bottom: 5px; display: inline-block;">Node.js</code><code style="background: rgba(255, 107, 0, 0.08); color: #FF6B00; font-size: 11px; padding: 2px 6px; border-radius: 4px; margin-right: 4px; border: 1px solid rgba(255, 107, 0, 0.15); margin-bottom: 5px; display: inline-block;">Tailwind CSS</code><code style="background: rgba(255, 107, 0, 0.08); color: #FF6B00; font-size: 11px; padding: 2px 6px; border-radius: 4px; margin-right: 4px; border: 1px solid rgba(255, 107, 0, 0.15); margin-bottom: 5px; display: inline-block;">Vite</code>
+  </div>
+  <div align="center" style="margin-top: 15px;">
     
     <a href="https://www.hotbers.in" target="_blank" style="text-decoration: none;"><img src="https://img.shields.io/badge/Live_Demo-FF6B00?style=for-the-badge" alt="Demo" /></a>
   </div>
 </div>
 </td>
 <td width="50%" valign="top">
-<div align="center">
-  <a href="https://tvarit-gamma.vercel.app/login" target="_blank">
-    <img src="./assets/project-tvarit.svg" alt="TVARIT" width="100%" style="border-radius: 12px;" />
-  </a>
-  <div align="center" style="margin-top: 10px; margin-bottom: 15px;">
+<div align="left" style="border: 1px solid rgba(255, 107, 0, 0.15); border-radius: 12px; padding: 20px; background: #0D0D11; min-height: 240px; margin-bottom: 10px;">
+  <span style="font-family: -apple-system, BlinkMacSystemFont, sans-serif; font-size: 10px; font-weight: bold; color: #FF6B00; letter-spacing: 1px; display: block; margin-bottom: 6px;">FEATURED SYSTEM</span>
+  <h3 style="margin: 0 0 10px 0; color: #FFFFFF; font-family: -apple-system, BlinkMacSystemFont, sans-serif; font-size: 18px; font-weight: 800;">TVARIT</h3>
+  <p style="margin: 0 0 15px 0; color: #8F8F9F; font-family: -apple-system, BlinkMacSystemFont, sans-serif; font-size: 13px; line-height: 1.5; min-height: 60px;">Tvarit is an AI-powered meal kit platform that recommends personalized recipes based on user preferences, dietary goals, allergies, and available ingredients. It provides perfectly portioned ingredient kits, guided cooking instructions, and a seamless online ordering experience.</p>
+  <div style="margin-bottom: 20px; min-height: 35px;">
+    <code style="background: rgba(255, 107, 0, 0.08); color: #FF6B00; font-size: 11px; padding: 2px 6px; border-radius: 4px; margin-right: 4px; border: 1px solid rgba(255, 107, 0, 0.15); margin-bottom: 5px; display: inline-block;">React</code><code style="background: rgba(255, 107, 0, 0.08); color: #FF6B00; font-size: 11px; padding: 2px 6px; border-radius: 4px; margin-right: 4px; border: 1px solid rgba(255, 107, 0, 0.15); margin-bottom: 5px; display: inline-block;">Firebase</code><code style="background: rgba(255, 107, 0, 0.08); color: #FF6B00; font-size: 11px; padding: 2px 6px; border-radius: 4px; margin-right: 4px; border: 1px solid rgba(255, 107, 0, 0.15); margin-bottom: 5px; display: inline-block;">Node.js</code><code style="background: rgba(255, 107, 0, 0.08); color: #FF6B00; font-size: 11px; padding: 2px 6px; border-radius: 4px; margin-right: 4px; border: 1px solid rgba(255, 107, 0, 0.15); margin-bottom: 5px; display: inline-block;">Tailwind CSS</code>
+  </div>
+  <div align="center" style="margin-top: 15px;">
     <a href="https://github.com/sandeepreddy2147/tvarit" target="_blank" style="text-decoration: none; margin-right: 8px;"><img src="https://img.shields.io/badge/Repository-1A1A24?style=for-the-badge" alt="GitHub" /></a>
     <a href="https://tvarit-gamma.vercel.app/login" target="_blank" style="text-decoration: none;"><img src="https://img.shields.io/badge/Live_Demo-FF6B00?style=for-the-badge" alt="Demo" /></a>
   </div>
