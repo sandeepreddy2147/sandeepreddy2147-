@@ -79,7 +79,7 @@
 <tr>
 <td width="50%" valign="top">
 <div align="center">
-<a href="#" target="_blank">
+<a href="https://www.hotbers.in/" target="_blank">
 <img src="./assets/project-project1.svg" alt="Hotbers - PG Management SaaS Platform" width="504" style="border-radius: 14px; margin-bottom: 16px;" />
 </a>
 <div align="center" style="margin-top: 16px; margin-bottom: 20px;">
