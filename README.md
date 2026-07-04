@@ -4,29 +4,35 @@
 <div align="center">
 
   <!-- 1. PREMIUM HERO BANNER -->
-  <img src="./assets/hero-banner.svg" alt="Alex Mercer - Full Stack Engineer" width="100%" style="border-radius: 16px; margin-bottom: 24px;" />
+  <img src="./assets/hero-banner.svg" alt="Byreddy Venkata sandeep Reddy - Full Stack Engineer" width="100%" style="border-radius: 16px; margin-bottom: 24px;" />
 
   <!-- 2. ANIMATED TYPING SUB-TITLE -->
-  <a href="https://yourportfolio.com">
+  <a href="https://byreddy-venkata-sandeep-reddy.vercel.app/">
     <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=24&duration=3000&pause=1000&color=FF6B00&center=true&vCenter=true&width=500&height=50&lines=Full%20Stack%20Engineer;React%20%26%20TypeScript%20Specialist;Cloud%20Architecture%20Enthusiast;Open%20Source%20Contributor" alt="Typing Subtitle" />
   </a>
 
   <!-- 3. PREMIUM SOCIAL BUTTONS -->
   <div style="margin: 20px 0 35px 0;">
-    <a href="https://github.com/username" target="_blank">
+    <a href="https://github.com/sandeepreddy2147/" target="_blank">
       <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
     </a>&nbsp;
-    <a href="https://yourportfolio.com" target="_blank">
+    <a href="https://byreddy-venkata-sandeep-reddy.vercel.app/" target="_blank">
       <img src="https://img.shields.io/badge/Portfolio-FF6B00?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
     </a>&nbsp;
-    <a href="https://linkedin.com/in/username" target="_blank">
+    <a href="https://www.linkedin.com/in/byreddy-venkata-sandeep-reddy/" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>&nbsp;
-    <a href="mailto:hello@yourdomain.com" target="_blank">
+    <a href="mailto:b.v.sandeepreddy21@gmail.com" target="_blank">
       <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
     </a>&nbsp;
-    <a href="https://x.com/username" target="_blank">
+    <a href="https://x.com/reddy21_sandeep" target="_blank">
       <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=x&logoColor=white" alt="Twitter" />
+    </a>&nbsp;
+    <a href="https://discord.gg/TRZXHJyNE" target="_blank">
+      <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
+    </a>&nbsp;
+    <a href="https://www.instagram.com/sandeep_reddy_21?igsh=MWs1djBmdWs5ZGxwcw==" target="_blank">
+      <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
     </a>
   </div>
 
@@ -37,7 +43,7 @@
   <blockquote style="border-left: 4px solid #FF6B00; background: rgba(255, 107, 0, 0.03); padding: 15px 20px; border-radius: 0 12px 12px 0; margin: 0;">
     <h4 style="margin: 0 0 6px 0; color: #FF6B00; font-size: 14px; letter-spacing: 1px; text-transform: uppercase;">Executive Summary</h4>
     <p style="margin: 0; color: #F1F1F3; font-size: 15px; line-height: 1.6; font-weight: 500;">
-      I build high-performance SaaS products, AI-powered applications, scalable web platforms, and open-source developer tools.
+      I build production-ready SaaS platforms, AI-integrated applications, and open-source developer tools. Focused on engineering scalable web architectures with a strict commitment to performance and system reliability.
     </p>
   </blockquote>
 </div>
@@ -64,27 +70,27 @@
   <table width="100%" border="0" cellpadding="5" cellspacing="0">
     <tr>
       <td width="50%" align="center" valign="middle">
-        <img src="https://github-readme-stats.vercel.app/api?username=username&show_icons=true&count_private=true&theme=default&icon_color=FF6B00&text_color=333333&bg_color=ffffff&border_color=E4E4E7" alt="GitHub Stats" width="100%" style="max-width: 400px; border-radius: 8px;" />
+        <img src="https://github-readme-stats.vercel.app/api?username=sandeepreddy2147/&show_icons=true&count_private=true&theme=default&icon_color=FF6B00&text_color=333333&bg_color=ffffff&border_color=E4E4E7" alt="GitHub Stats" width="100%" style="max-width: 400px; border-radius: 8px;" />
       </td>
       <td width="50%" align="center" valign="middle">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=username&theme=default&icon_color=FF6B00&text_color=333333&bg_color=ffffff&border_color=E4E4E7" alt="GitHub Streak" width="100%" style="max-width: 400px; border-radius: 8px;" />
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=sandeepreddy2147/&theme=default&icon_color=FF6B00&text_color=333333&bg_color=ffffff&border_color=E4E4E7" alt="GitHub Streak" width="100%" style="max-width: 400px; border-radius: 8px;" />
       </td>
     </tr>
     <tr>
       <td width="50%" align="center" valign="middle" style="padding-top: 15px;">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=username&layout=compact&langs_count=8&theme=default&icon_color=FF6B00&text_color=333333&bg_color=ffffff&border_color=E4E4E7" alt="Top Languages" width="100%" style="max-width: 400px; border-radius: 8px;" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sandeepreddy2147/&layout=compact&langs_count=8&theme=default&icon_color=FF6B00&text_color=333333&bg_color=ffffff&border_color=E4E4E7" alt="Top Languages" width="100%" style="max-width: 400px; border-radius: 8px;" />
       </td>
       <td width="50%" align="center" valign="middle" style="padding-top: 15px;">
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=username&theme=default" alt="Profile views and summary" width="100%" style="max-width: 400px; border-radius: 8px;" />
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sandeepreddy2147/&theme=default" alt="Profile views and summary" width="100%" style="max-width: 400px; border-radius: 8px;" />
       </td>
     </tr>
   </table>
 
   <!-- Live Indicators Line -->
   <div style="margin-top: 25px; font-family: monospace; font-size: 13px; color: #7F7F8F;">
-    <span>👤 Followers: <b><img src="https://img.shields.io/github/followers/username?label=%20&style=social" style="vertical-align: middle;" /></b></span> &nbsp;•&nbsp;
-    <span>⭐ Total Stars: <b><img src="https://img.shields.io/github/stars-of-user/username?label=%20&style=social" style="vertical-align: middle;" /></b></span> &nbsp;•&nbsp;
-    <span>📦 Public Repositories: <b><img src="https://img.shields.io/github/directory-by-user-repo-count/username?label=%20&style=social" style="vertical-align: middle;" /></b></span>
+    <span>👤 Followers: <b><img src="https://img.shields.io/github/followers/sandeepreddy2147/?label=%20&style=social" style="vertical-align: middle;" /></b></span> &nbsp;•&nbsp;
+    <span>⭐ Total Stars: <b><img src="https://img.shields.io/github/stars-of-user/sandeepreddy2147/?label=%20&style=social" style="vertical-align: middle;" /></b></span> &nbsp;•&nbsp;
+    <span>📦 Public Repositories: <b><img src="https://img.shields.io/github/directory-by-user-repo-count/sandeepreddy2147/?label=%20&style=social" style="vertical-align: middle;" /></b></span>
   </div>
 </div>
 
@@ -104,18 +110,14 @@
         <div align="left" style="border: 1px solid rgba(255,107,0,0.15); border-radius: 12px; padding: 20px; background: #0D0D11; height: 100%; box-shadow: 0 4px 20px rgba(0,0,0,0.35);">
           <!-- Minimal header indicator -->
           <div style="font-family: monospace; font-size: 11px; color: #FF6B00; font-weight: bold; margin-bottom: 8px; letter-spacing: 1px;">FEATURED SYSTEM</div>
-          <h3 style="color: #FFFFFF; font-size: 20px; margin: 0 0 10px 0; font-family: -apple-system, BlinkMacSystemFont, sans-serif; font-weight: 800;">HyperEngine</h3>
-          <p style="color: #A0A0B0; font-size: 14px; line-height: 1.5; min-height: 72px; margin-bottom: 16px;">A premium high-performance e-commerce engine with hyper-fast checkout, real-time analytics dashboard, and automated inventory sync.</p>
+          <h3 style="color: #FFFFFF; font-size: 20px; margin: 0 0 10px 0; font-family: -apple-system, BlinkMacSystemFont, sans-serif; font-weight: 800;">Hotbers</h3>
+          <p style="color: #A0A0B0; font-size: 14px; line-height: 1.5; min-height: 72px; margin-bottom: 16px;">A complete, production-grade cloud SaaS built to help paying guest owners streamline customer onboarding, room assignments, auto-invoicing, bookings, payments, and live complaints management. Integrates complex dashboards for both owners and renters.</p>
           <div style="margin-bottom: 18px;">
-            <span style="background: #1C1C24; color: #E4E4E7; border: 1px solid rgba(255,255,255,0.06); border-radius: 6px; padding: 4px 10px; font-size: 11px; font-weight: 600; margin-right: 6px; display: inline-block; font-family: monospace; margin-bottom: 6px;">React</span><span style="background: #1C1C24; color: #E4E4E7; border: 1px solid rgba(255,255,255,0.06); border-radius: 6px; padding: 4px 10px; font-size: 11px; font-weight: 600; margin-right: 6px; display: inline-block; font-family: monospace; margin-bottom: 6px;">Node.js</span><span style="background: #1C1C24; color: #E4E4E7; border: 1px solid rgba(255,255,255,0.06); border-radius: 6px; padding: 4px 10px; font-size: 11px; font-weight: 600; margin-right: 6px; display: inline-block; font-family: monospace; margin-bottom: 6px;">Firebase</span><span style="background: #1C1C24; color: #E4E4E7; border: 1px solid rgba(255,255,255,0.06); border-radius: 6px; padding: 4px 10px; font-size: 11px; font-weight: 600; margin-right: 6px; display: inline-block; font-family: monospace; margin-bottom: 6px;">Tailwind CSS</span>
+            <span style="background: #1C1C24; color: #E4E4E7; border: 1px solid rgba(255,255,255,0.06); border-radius: 6px; padding: 4px 10px; font-size: 11px; font-weight: 600; margin-right: 6px; display: inline-block; font-family: monospace; margin-bottom: 6px;">React 19</span><span style="background: #1C1C24; color: #E4E4E7; border: 1px solid rgba(255,255,255,0.06); border-radius: 6px; padding: 4px 10px; font-size: 11px; font-weight: 600; margin-right: 6px; display: inline-block; font-family: monospace; margin-bottom: 6px;">Firebase Auth</span><span style="background: #1C1C24; color: #E4E4E7; border: 1px solid rgba(255,255,255,0.06); border-radius: 6px; padding: 4px 10px; font-size: 11px; font-weight: 600; margin-right: 6px; display: inline-block; font-family: monospace; margin-bottom: 6px;">Cloud Firestore</span><span style="background: #1C1C24; color: #E4E4E7; border: 1px solid rgba(255,255,255,0.06); border-radius: 6px; padding: 4px 10px; font-size: 11px; font-weight: 600; margin-right: 6px; display: inline-block; font-family: monospace; margin-bottom: 6px;">Cloud Functions</span><span style="background: #1C1C24; color: #E4E4E7; border: 1px solid rgba(255,255,255,0.06); border-radius: 6px; padding: 4px 10px; font-size: 11px; font-weight: 600; margin-right: 6px; display: inline-block; font-family: monospace; margin-bottom: 6px;">Node.js</span><span style="background: #1C1C24; color: #E4E4E7; border: 1px solid rgba(255,255,255,0.06); border-radius: 6px; padding: 4px 10px; font-size: 11px; font-weight: 600; margin-right: 6px; display: inline-block; font-family: monospace; margin-bottom: 6px;">Tailwind CSS</span><span style="background: #1C1C24; color: #E4E4E7; border: 1px solid rgba(255,255,255,0.06); border-radius: 6px; padding: 4px 10px; font-size: 11px; font-weight: 600; margin-right: 6px; display: inline-block; font-family: monospace; margin-bottom: 6px;">Leaflet Maps API</span><span style="background: #1C1C24; color: #E4E4E7; border: 1px solid rgba(255,255,255,0.06); border-radius: 6px; padding: 4px 10px; font-size: 11px; font-weight: 600; margin-right: 6px; display: inline-block; font-family: monospace; margin-bottom: 6px;">AI Engine</span>
           </div>
           <div align="left">
             
-            <a href="https://github.com/username/hyper-engine" target="_blank" style="text-decoration: none; margin-right: 8px;">
-              <img src="https://img.shields.io/badge/Repository-0D0D11?style=for-the-badge&logo=github&logoColor=white&border=1px_solid_FF6B00" alt="GitHub" />
-            </a>
-            
-            <a href="https://example.com" target="_blank" style="text-decoration: none;">
+            <a href="https://www.hotbers.in/" target="_blank" style="text-decoration: none;">
               <img src="https://img.shields.io/badge/Live_Demo-FF6B00?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Demo" />
             </a>
           </div>
@@ -127,98 +129,24 @@
         <div align="left" style="border: 1px solid rgba(255,107,0,0.15); border-radius: 12px; padding: 20px; background: #0D0D11; height: 100%; box-shadow: 0 4px 20px rgba(0,0,0,0.35);">
           <!-- Minimal header indicator -->
           <div style="font-family: monospace; font-size: 11px; color: #FF6B00; font-weight: bold; margin-bottom: 8px; letter-spacing: 1px;">FEATURED SYSTEM</div>
-          <h3 style="color: #FFFFFF; font-size: 20px; margin: 0 0 10px 0; font-family: -apple-system, BlinkMacSystemFont, sans-serif; font-weight: 800;">Professional Portfolio</h3>
-          <p style="color: #A0A0B0; font-size: 14px; line-height: 1.5; min-height: 72px; margin-bottom: 16px;">A minimalist, high-fidelity interactive developer experience showcasing full-stack capabilities, live API integrations, and elegant design.</p>
+          <h3 style="color: #FFFFFF; font-size: 20px; margin: 0 0 10px 0; font-family: -apple-system, BlinkMacSystemFont, sans-serif; font-weight: 800;">TVARIT</h3>
+          <p style="color: #A0A0B0; font-size: 14px; line-height: 1.5; min-height: 72px; margin-bottom: 16px;">Tvarit is an AI-powered meal kit platform that recommends personalized recipes based on user preferences, dietary goals, allergies, and available ingredients. It provides perfectly portioned ingredient kits, guided cooking instructions, and a seamless online ordering experience.</p>
           <div style="margin-bottom: 18px;">
-            <span style="background: #1C1C24; color: #E4E4E7; border: 1px solid rgba(255,255,255,0.06); border-radius: 6px; padding: 4px 10px; font-size: 11px; font-weight: 600; margin-right: 6px; display: inline-block; font-family: monospace; margin-bottom: 6px;">React</span><span style="background: #1C1C24; color: #E4E4E7; border: 1px solid rgba(255,255,255,0.06); border-radius: 6px; padding: 4px 10px; font-size: 11px; font-weight: 600; margin-right: 6px; display: inline-block; font-family: monospace; margin-bottom: 6px;">TypeScript</span><span style="background: #1C1C24; color: #E4E4E7; border: 1px solid rgba(255,255,255,0.06); border-radius: 6px; padding: 4px 10px; font-size: 11px; font-weight: 600; margin-right: 6px; display: inline-block; font-family: monospace; margin-bottom: 6px;">Vercel</span><span style="background: #1C1C24; color: #E4E4E7; border: 1px solid rgba(255,255,255,0.06); border-radius: 6px; padding: 4px 10px; font-size: 11px; font-weight: 600; margin-right: 6px; display: inline-block; font-family: monospace; margin-bottom: 6px;">Tailwind CSS</span>
+            <span style="background: #1C1C24; color: #E4E4E7; border: 1px solid rgba(255,255,255,0.06); border-radius: 6px; padding: 4px 10px; font-size: 11px; font-weight: 600; margin-right: 6px; display: inline-block; font-family: monospace; margin-bottom: 6px;">React 19</span><span style="background: #1C1C24; color: #E4E4E7; border: 1px solid rgba(255,255,255,0.06); border-radius: 6px; padding: 4px 10px; font-size: 11px; font-weight: 600; margin-right: 6px; display: inline-block; font-family: monospace; margin-bottom: 6px;">Firebase Auth</span><span style="background: #1C1C24; color: #E4E4E7; border: 1px solid rgba(255,255,255,0.06); border-radius: 6px; padding: 4px 10px; font-size: 11px; font-weight: 600; margin-right: 6px; display: inline-block; font-family: monospace; margin-bottom: 6px;">Cloud Firestore</span><span style="background: #1C1C24; color: #E4E4E7; border: 1px solid rgba(255,255,255,0.06); border-radius: 6px; padding: 4px 10px; font-size: 11px; font-weight: 600; margin-right: 6px; display: inline-block; font-family: monospace; margin-bottom: 6px;">Cloud Functions</span><span style="background: #1C1C24; color: #E4E4E7; border: 1px solid rgba(255,255,255,0.06); border-radius: 6px; padding: 4px 10px; font-size: 11px; font-weight: 600; margin-right: 6px; display: inline-block; font-family: monospace; margin-bottom: 6px;">Node.js</span><span style="background: #1C1C24; color: #E4E4E7; border: 1px solid rgba(255,255,255,0.06); border-radius: 6px; padding: 4px 10px; font-size: 11px; font-weight: 600; margin-right: 6px; display: inline-block; font-family: monospace; margin-bottom: 6px;">Tailwind CSS</span><span style="background: #1C1C24; color: #E4E4E7; border: 1px solid rgba(255,255,255,0.06); border-radius: 6px; padding: 4px 10px; font-size: 11px; font-weight: 600; margin-right: 6px; display: inline-block; font-family: monospace; margin-bottom: 6px;">Leaflet Maps API</span><span style="background: #1C1C24; color: #E4E4E7; border: 1px solid rgba(255,255,255,0.06); border-radius: 6px; padding: 4px 10px; font-size: 11px; font-weight: 600; margin-right: 6px; display: inline-block; font-family: monospace; margin-bottom: 6px;">AI Engine</span>
           </div>
           <div align="left">
             
-            <a href="https://github.com/username/portfolio" target="_blank" style="text-decoration: none; margin-right: 8px;">
+            <a href="https://github.com/sandeepreddy2147/tvarit" target="_blank" style="text-decoration: none; margin-right: 8px;">
               <img src="https://img.shields.io/badge/Repository-0D0D11?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
             </a>
             
-            <a href="https://example.com" target="_blank" style="text-decoration: none;">
+            <a href="https://tvarit-gamma.vercel.app/login" target="_blank" style="text-decoration: none;">
               <img src="https://img.shields.io/badge/Live_Demo-FF6B00?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Demo" />
             </a>
           </div>
         </div>
       </td>
     
-  </tr>
-  <tr>
-  
-      <td width="50%" valign="top">
-        <div align="left" style="border: 1px solid rgba(255,107,0,0.15); border-radius: 12px; padding: 20px; background: #0D0D11; height: 100%; box-shadow: 0 4px 20px rgba(0,0,0,0.35);">
-          <!-- Minimal header indicator -->
-          <div style="font-family: monospace; font-size: 11px; color: #FF6B00; font-weight: bold; margin-bottom: 8px; letter-spacing: 1px;">FEATURED SYSTEM</div>
-          <h3 style="color: #FFFFFF; font-size: 20px; margin: 0 0 10px 0; font-family: -apple-system, BlinkMacSystemFont, sans-serif; font-weight: 800;">SyncWorkspace</h3>
-          <p style="color: #A0A0B0; font-size: 14px; line-height: 1.5; min-height: 72px; margin-bottom: 16px;">A real-time workspace collaboration system supporting live canvas boards, instant document syncing, and AI-powered task allocation.</p>
-          <div style="margin-bottom: 18px;">
-            <span style="background: #1C1C24; color: #E4E4E7; border: 1px solid rgba(255,255,255,0.06); border-radius: 6px; padding: 4px 10px; font-size: 11px; font-weight: 600; margin-right: 6px; display: inline-block; font-family: monospace; margin-bottom: 6px;">React</span><span style="background: #1C1C24; color: #E4E4E7; border: 1px solid rgba(255,255,255,0.06); border-radius: 6px; padding: 4px 10px; font-size: 11px; font-weight: 600; margin-right: 6px; display: inline-block; font-family: monospace; margin-bottom: 6px;">Node.js</span><span style="background: #1C1C24; color: #E4E4E7; border: 1px solid rgba(255,255,255,0.06); border-radius: 6px; padding: 4px 10px; font-size: 11px; font-weight: 600; margin-right: 6px; display: inline-block; font-family: monospace; margin-bottom: 6px;">Firebase</span><span style="background: #1C1C24; color: #E4E4E7; border: 1px solid rgba(255,255,255,0.06); border-radius: 6px; padding: 4px 10px; font-size: 11px; font-weight: 600; margin-right: 6px; display: inline-block; font-family: monospace; margin-bottom: 6px;">TypeScript</span>
-          </div>
-          <div align="left">
-            
-            <a href="https://github.com/username/sync-workspace" target="_blank" style="text-decoration: none; margin-right: 8px;">
-              <img src="https://img.shields.io/badge/Repository-0D0D11?style=for-the-badge&logo=github&logoColor=white&border=1px_solid_FF6B00" alt="GitHub" />
-            </a>
-            
-            <a href="https://example.com" target="_blank" style="text-decoration: none;">
-              <img src="https://img.shields.io/badge/Live_Demo-FF6B00?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Demo" />
-            </a>
-          </div>
-        </div>
-      </td>
-    
-  
-      <td width="50%" valign="top">
-        <div align="left" style="border: 1px solid rgba(255,107,0,0.15); border-radius: 12px; padding: 20px; background: #0D0D11; height: 100%; box-shadow: 0 4px 20px rgba(0,0,0,0.35);">
-          <!-- Minimal header indicator -->
-          <div style="font-family: monospace; font-size: 11px; color: #FF6B00; font-weight: bold; margin-bottom: 8px; letter-spacing: 1px;">FEATURED SYSTEM</div>
-          <h3 style="color: #FFFFFF; font-size: 20px; margin: 0 0 10px 0; font-family: -apple-system, BlinkMacSystemFont, sans-serif; font-weight: 800;">Context MCP</h3>
-          <p style="color: #A0A0B0; font-size: 14px; line-height: 1.5; min-height: 72px; margin-bottom: 16px;">A model context protocol server that builds dynamic skill graphs, identifies knowledge gaps, and serves context-aware coding tasks to LLMs.</p>
-          <div style="margin-bottom: 18px;">
-            <span style="background: #1C1C24; color: #E4E4E7; border: 1px solid rgba(255,255,255,0.06); border-radius: 6px; padding: 4px 10px; font-size: 11px; font-weight: 600; margin-right: 6px; display: inline-block; font-family: monospace; margin-bottom: 6px;">Node.js</span><span style="background: #1C1C24; color: #E4E4E7; border: 1px solid rgba(255,255,255,0.06); border-radius: 6px; padding: 4px 10px; font-size: 11px; font-weight: 600; margin-right: 6px; display: inline-block; font-family: monospace; margin-bottom: 6px;">TypeScript</span><span style="background: #1C1C24; color: #E4E4E7; border: 1px solid rgba(255,255,255,0.06); border-radius: 6px; padding: 4px 10px; font-size: 11px; font-weight: 600; margin-right: 6px; display: inline-block; font-family: monospace; margin-bottom: 6px;">Git</span><span style="background: #1C1C24; color: #E4E4E7; border: 1px solid rgba(255,255,255,0.06); border-radius: 6px; padding: 4px 10px; font-size: 11px; font-weight: 600; margin-right: 6px; display: inline-block; font-family: monospace; margin-bottom: 6px;">Docker</span>
-          </div>
-          <div align="left">
-            
-            <a href="https://github.com/username/context-mcp" target="_blank" style="text-decoration: none; margin-right: 8px;">
-              <img src="https://img.shields.io/badge/Repository-0D0D11?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-            </a>
-            
-            <a href="https://example.com" target="_blank" style="text-decoration: none;">
-              <img src="https://img.shields.io/badge/Live_Demo-FF6B00?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Demo" />
-            </a>
-          </div>
-        </div>
-      </td>
-    
-  </tr>
-  <tr>
-  
-      <td width="50%" valign="top">
-        <div align="left" style="border: 1px solid rgba(255,107,0,0.15); border-radius: 12px; padding: 20px; background: #0D0D11; height: 100%; box-shadow: 0 4px 20px rgba(0,0,0,0.35);">
-          <!-- Minimal header indicator -->
-          <div style="font-family: monospace; font-size: 11px; color: #FF6B00; font-weight: bold; margin-bottom: 8px; letter-spacing: 1px;">FEATURED SYSTEM</div>
-          <h3 style="color: #FFFFFF; font-size: 20px; margin: 0 0 10px 0; font-family: -apple-system, BlinkMacSystemFont, sans-serif; font-weight: 800;">Audio Transcriber</h3>
-          <p style="color: #A0A0B0; font-size: 14px; line-height: 1.5; min-height: 72px; margin-bottom: 16px;">An automated web builder for audio content, transforming raw RSS feeds into beautiful, SEO-optimized landing pages with interactive transcripts.</p>
-          <div style="margin-bottom: 18px;">
-            <span style="background: #1C1C24; color: #E4E4E7; border: 1px solid rgba(255,255,255,0.06); border-radius: 6px; padding: 4px 10px; font-size: 11px; font-weight: 600; margin-right: 6px; display: inline-block; font-family: monospace; margin-bottom: 6px;">React</span><span style="background: #1C1C24; color: #E4E4E7; border: 1px solid rgba(255,255,255,0.06); border-radius: 6px; padding: 4px 10px; font-size: 11px; font-weight: 600; margin-right: 6px; display: inline-block; font-family: monospace; margin-bottom: 6px;">Node.js</span><span style="background: #1C1C24; color: #E4E4E7; border: 1px solid rgba(255,255,255,0.06); border-radius: 6px; padding: 4px 10px; font-size: 11px; font-weight: 600; margin-right: 6px; display: inline-block; font-family: monospace; margin-bottom: 6px;">Firebase</span><span style="background: #1C1C24; color: #E4E4E7; border: 1px solid rgba(255,255,255,0.06); border-radius: 6px; padding: 4px 10px; font-size: 11px; font-weight: 600; margin-right: 6px; display: inline-block; font-family: monospace; margin-bottom: 6px;">Vercel</span>
-          </div>
-          <div align="left">
-            
-            <a href="https://github.com/username/audio-transcriber" target="_blank" style="text-decoration: none; margin-right: 8px;">
-              <img src="https://img.shields.io/badge/Repository-0D0D11?style=for-the-badge&logo=github&logoColor=white&border=1px_solid_FF6B00" alt="GitHub" />
-            </a>
-            
-            <a href="https://example.com" target="_blank" style="text-decoration: none;">
-              <img src="https://img.shields.io/badge/Live_Demo-FF6B00?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Demo" />
-            </a>
-          </div>
-        </div>
-      </td>
-    
-  <td width="50%"></td>
   </tr>
   </table>
 </div>
@@ -230,13 +158,13 @@
   <h2 style="font-family: -apple-system, BlinkMacSystemFont, sans-serif; font-weight: 800; font-size: 24px; color: #FFFFFF; margin-bottom: 20px; letter-spacing: -0.5px;">🏆 Accolades &amp; Achievements</h2>
   
   <!-- Trophies -->
-  <img src="https://github-profile-trophy.vercel.app/?username=username&theme=flat&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies" style="max-width: 100%; border-radius: 8px; margin-bottom: 24px;" />
+  <img src="https://github-profile-trophy.vercel.app/?username=sandeepreddy2147/&theme=flat&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies" style="max-width: 100%; border-radius: 8px; margin-bottom: 24px;" />
 
   <!-- Snake Grid Animation and Contribution graph reference -->
   <div style="margin-top: 15px; border: 1px solid rgba(255,107,0,0.1); border-radius: 12px; padding: 20px; background: #0D0D11; max-width: 800px;">
     <h4 style="color: #FFFFFF; margin: 0 0 10px 0; font-size: 14px; letter-spacing: 0.5px; font-family: -apple-system, BlinkMacSystemFont, sans-serif; font-weight: 700;">CONTRIBUTION GRID ACTIVITY MINE</h4>
     <!-- This utilizes a live animated workflow to generate contribution grid snake -->
-    <img src="https://raw.githubusercontent.com/username/username/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake" width="100%" style="border-radius: 6px;" onerror="this.src='https://raw.githubusercontent.com/username/username/main/assets/github-contribution-grid-snake.svg'; this.onerror=null;" />
+    <img src="https://raw.githubusercontent.com/sandeepreddy2147//sandeepreddy2147//output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake" width="100%" style="border-radius: 6px;" onerror="this.src='https://raw.githubusercontent.com/sandeepreddy2147//sandeepreddy2147//main/assets/github-contribution-grid-snake.svg'; this.onerror=null;" />
   </div>
 </div>
 
@@ -247,7 +175,7 @@
   <h2 style="font-family: -apple-system, BlinkMacSystemFont, sans-serif; font-weight: 800; font-size: 24px; color: #FFFFFF; margin-bottom: 8px; letter-spacing: -0.5px;">🔄 Modern Development Blueprint</h2>
   <p style="color: #8F8F9F; font-size: 14px; margin-top: 0; margin-bottom: 24px;">An continuous-delivery architecture designed to translate product vision into pixel-perfect scalable realities.</p>
   
-  <img src="./assets/workflow.svg" alt="Alex Mercer Workflow Blueprint" width="100%" style="border-radius: 12px; margin-bottom: 12px;" />
+  <img src="./assets/workflow.svg" alt="Byreddy Venkata sandeep Reddy Workflow Blueprint" width="100%" style="border-radius: 12px; margin-bottom: 12px;" />
 </div>
 
 <hr style="border: 0; border-top: 1px solid rgba(255, 107, 0, 0.15); margin: 40px 0;" />
@@ -268,13 +196,13 @@
       <td width="50%" align="left">
         <div style="background: #14141A; border: 1px solid rgba(255,107,0,0.1); border-radius: 8px; padding: 12px 18px;">
           <span style="color: #FF6B00; font-weight: bold; font-size: 11px; font-family: monospace; letter-spacing: 0.5px; display: block; margin-bottom: 4px;">LOCATED IN</span>
-          <span style="color: #FFFFFF; font-size: 15px; font-family: -apple-system, BlinkMacSystemFont, sans-serif; font-weight: bold;">📍 San Francisco, CA</span>
+          <span style="color: #FFFFFF; font-size: 15px; font-family: -apple-system, BlinkMacSystemFont, sans-serif; font-weight: bold;">📍 Gudivada, Andhra Pradesh</span>
         </div>
       </td>
       <td width="50%" align="left">
         <div style="background: #14141A; border: 1px solid rgba(255,107,0,0.1); border-radius: 8px; padding: 12px 18px;">
           <span style="color: #FF6B00; font-weight: bold; font-size: 11px; font-family: monospace; letter-spacing: 0.5px; display: block; margin-bottom: 4px;">DIRECT CONNECT</span>
-          <a href="mailto:hello@yourdomain.com" style="color: #FFFFFF; font-size: 15px; font-family: -apple-system, BlinkMacSystemFont, sans-serif; font-weight: bold; text-decoration: none;">📬 Send Electronic Mail</a>
+          <a href="mailto:b.v.sandeepreddy21@gmail.com" style="color: #FFFFFF; font-size: 15px; font-family: -apple-system, BlinkMacSystemFont, sans-serif; font-weight: bold; text-decoration: none;">📬 Send Electronic Mail</a>
         </div>
       </td>
     </tr>
@@ -282,13 +210,13 @@
       <td width="50%" align="left">
         <div style="background: #14141A; border: 1px solid rgba(255,107,0,0.1); border-radius: 8px; padding: 12px 18px;">
           <span style="color: #FF6B00; font-weight: bold; font-size: 11px; font-family: monospace; letter-spacing: 0.5px; display: block; margin-bottom: 4px;">PROFESSIONAL NETWORK</span>
-          <a href="https://linkedin.com/in/username" target="_blank" style="color: #FFFFFF; font-size: 15px; font-family: -apple-system, BlinkMacSystemFont, sans-serif; font-weight: bold; text-decoration: none;">💼 LinkedIn Profile</a>
+          <a href="https://www.linkedin.com/in/byreddy-venkata-sandeep-reddy/" target="_blank" style="color: #FFFFFF; font-size: 15px; font-family: -apple-system, BlinkMacSystemFont, sans-serif; font-weight: bold; text-decoration: none;">💼 LinkedIn Profile</a>
         </div>
       </td>
       <td width="50%" align="left">
         <div style="background: #14141A; border: 1px solid rgba(255,107,0,0.1); border-radius: 8px; padding: 12px 18px;">
           <span style="color: #FF6B00; font-weight: bold; font-size: 11px; font-family: monospace; letter-spacing: 0.5px; display: block; margin-bottom: 4px;">INTERACTIVE HUBS</span>
-          <a href="https://yourportfolio.com" target="_blank" style="color: #FFFFFF; font-size: 15px; font-family: -apple-system, BlinkMacSystemFont, sans-serif; font-weight: bold; text-decoration: none;">🌐 Personal Portfolio</a>
+          <a href="https://byreddy-venkata-sandeep-reddy.vercel.app/" target="_blank" style="color: #FFFFFF; font-size: 15px; font-family: -apple-system, BlinkMacSystemFont, sans-serif; font-weight: bold; text-decoration: none;">🌐 Personal Portfolio</a>
         </div>
       </td>
     </tr>
@@ -299,6 +227,6 @@
 
 <!-- 11. FOOTER -->
 <div align="center" style="font-family: -apple-system, BlinkMacSystemFont, sans-serif; font-size: 12px; color: #5F5F6F; padding-bottom: 40px;">
-  <p>Made with ❤️ by <a href="https://yourportfolio.com" style="color: #FF6B00; text-decoration: none; font-weight: 600;">Alex Mercer</a></p>
+  <p>Made with ❤️ by <a href="https://byreddy-venkata-sandeep-reddy.vercel.app/" style="color: #FF6B00; text-decoration: none; font-weight: 600;">Byreddy Venkata sandeep Reddy</a></p>
   <p style="font-size: 11px; margin-top: 5px; opacity: 0.6;">© 2026 • Apple-Inspired Premium Theme • Validated Responsive Pipeline</p>
 </div>
