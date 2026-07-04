@@ -101,54 +101,36 @@
   </div>
 
   <table width="100%" border="0" cellpadding="8" cellspacing="0">
-  <tr>
-  
-      <td width="50%" valign="top">
-        <div align="left" style="border: 1px solid rgba(255,107,0,0.15); border-radius: 12px; padding: 20px; background: #0D0D11; height: 100%; box-shadow: 0 4px 20px rgba(0,0,0,0.35);">
-          <!-- Minimal header indicator -->
-          <div style="font-family: monospace; font-size: 11px; color: #FF6B00; font-weight: bold; margin-bottom: 8px; letter-spacing: 1px;">FEATURED SYSTEM</div>
-          <h3 style="color: #FFFFFF; font-size: 20px; margin: 0 0 10px 0; font-family: -apple-system, BlinkMacSystemFont, sans-serif; font-weight: 800;">HOTBERS</h3>
-          <p style="color: #A0A0B0; font-size: 14px; line-height: 1.5; min-height: 72px; margin-bottom: 16px;">Complete cloud platform for PG owners and tenants with booking, payments, subscriptions, AI assistance and analytics.</p>
-          <div style="margin-bottom: 18px;">
-            <span style="background: #1C1C24; color: #E4E4E7; border: 1px solid rgba(255,255,255,0.06); border-radius: 6px; padding: 4px 10px; font-size: 11px; font-weight: 600; margin-right: 6px; display: inline-block; font-family: monospace; margin-bottom: 6px;">React</span><span style="background: #1C1C24; color: #E4E4E7; border: 1px solid rgba(255,255,255,0.06); border-radius: 6px; padding: 4px 10px; font-size: 11px; font-weight: 600; margin-right: 6px; display: inline-block; font-family: monospace; margin-bottom: 6px;">Firebase</span><span style="background: #1C1C24; color: #E4E4E7; border: 1px solid rgba(255,255,255,0.06); border-radius: 6px; padding: 4px 10px; font-size: 11px; font-weight: 600; margin-right: 6px; display: inline-block; font-family: monospace; margin-bottom: 6px;">Node.js</span><span style="background: #1C1C24; color: #E4E4E7; border: 1px solid rgba(255,255,255,0.06); border-radius: 6px; padding: 4px 10px; font-size: 11px; font-weight: 600; margin-right: 6px; display: inline-block; font-family: monospace; margin-bottom: 6px;">Tailwind CSS</span><span style="background: #1C1C24; color: #E4E4E7; border: 1px solid rgba(255,255,255,0.06); border-radius: 6px; padding: 4px 10px; font-size: 11px; font-weight: 600; margin-right: 6px; display: inline-block; font-family: monospace; margin-bottom: 6px;">Vite</span>
-          </div>
-          <div align="left">
-            
-            <a href="" target="_blank" style="text-decoration: none; margin-right: 8px;">
-              <img src="https://img.shields.io/badge/Repository-0D0D11?style=for-the-badge&logo=github&logoColor=white&border=1px_solid_FF6B00" alt="GitHub" />
-            </a>
-            
-            <a href="https://www.hotbers.in" target="_blank" style="text-decoration: none;">
-              <img src="https://img.shields.io/badge/Live_Demo-FF6B00?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Demo" />
-            </a>
-          </div>
-        </div>
-      </td>
-    
-  
-      <td width="50%" valign="top">
-        <div align="left" style="border: 1px solid rgba(255,107,0,0.15); border-radius: 12px; padding: 20px; background: #0D0D11; height: 100%; box-shadow: 0 4px 20px rgba(0,0,0,0.35);">
-          <!-- Minimal header indicator -->
-          <div style="font-family: monospace; font-size: 11px; color: #FF6B00; font-weight: bold; margin-bottom: 8px; letter-spacing: 1px;">FEATURED SYSTEM</div>
-          <h3 style="color: #FFFFFF; font-size: 20px; margin: 0 0 10px 0; font-family: -apple-system, BlinkMacSystemFont, sans-serif; font-weight: 800;">TVARIT</h3>
-          <p style="color: #A0A0B0; font-size: 14px; line-height: 1.5; min-height: 72px; margin-bottom: 16px;">Personalized recipes, AI recommendations, nutrition tracking and online ordering.</p>
-          <div style="margin-bottom: 18px;">
-            <span style="background: #1C1C24; color: #E4E4E7; border: 1px solid rgba(255,255,255,0.06); border-radius: 6px; padding: 4px 10px; font-size: 11px; font-weight: 600; margin-right: 6px; display: inline-block; font-family: monospace; margin-bottom: 6px;">React</span><span style="background: #1C1C24; color: #E4E4E7; border: 1px solid rgba(255,255,255,0.06); border-radius: 6px; padding: 4px 10px; font-size: 11px; font-weight: 600; margin-right: 6px; display: inline-block; font-family: monospace; margin-bottom: 6px;">Firebase</span><span style="background: #1C1C24; color: #E4E4E7; border: 1px solid rgba(255,255,255,0.06); border-radius: 6px; padding: 4px 10px; font-size: 11px; font-weight: 600; margin-right: 6px; display: inline-block; font-family: monospace; margin-bottom: 6px;">Node.js</span><span style="background: #1C1C24; color: #E4E4E7; border: 1px solid rgba(255,255,255,0.06); border-radius: 6px; padding: 4px 10px; font-size: 11px; font-weight: 600; margin-right: 6px; display: inline-block; font-family: monospace; margin-bottom: 6px;">Tailwind CSS</span>
-          </div>
-          <div align="left">
-            
-            <a href="https://github.com/sandeepreddy2147/tvarit" target="_blank" style="text-decoration: none; margin-right: 8px;">
-              <img src="https://img.shields.io/badge/Repository-0D0D11?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-            </a>
-            
-            <a href="https://tvarit-gamma.vercel.app/login" target="_blank" style="text-decoration: none;">
-              <img src="https://img.shields.io/badge/Live_Demo-FF6B00?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Demo" />
-            </a>
-          </div>
-        </div>
-      </td>
-    
-  </tr>
+<tr>
+<td width="50%" valign="top">
+<div align="left" style="border: 1px solid rgba(255,107,0,0.15); border-radius: 12px; padding: 20px; background: #0D0D11; height: 100%; box-shadow: 0 4px 20px rgba(0,0,0,0.35);">
+<div style="font-family: monospace; font-size: 11px; color: #FF6B00; font-weight: bold; margin-bottom: 8px; letter-spacing: 1px;">FEATURED SYSTEM</div>
+<h3 style="color: #FFFFFF; font-size: 20px; margin: 0 0 10px 0; font-family: -apple-system, BlinkMacSystemFont, sans-serif; font-weight: 800;">HOTBERS</h3>
+<p style="color: #A0A0B0; font-size: 14px; line-height: 1.5; min-height: 72px; margin-bottom: 16px;">Complete cloud platform for PG owners and tenants with booking, payments, subscriptions, AI assistance and analytics.</p>
+<div style="margin-bottom: 18px;">
+<span style="background: #1C1C24; color: #E4E4E7; border: 1px solid rgba(255,255,255,0.06); border-radius: 6px; padding: 4px 10px; font-size: 11px; font-weight: 600; margin-right: 6px; display: inline-block; font-family: monospace; margin-bottom: 6px;">React</span><span style="background: #1C1C24; color: #E4E4E7; border: 1px solid rgba(255,255,255,0.06); border-radius: 6px; padding: 4px 10px; font-size: 11px; font-weight: 600; margin-right: 6px; display: inline-block; font-family: monospace; margin-bottom: 6px;">Firebase</span><span style="background: #1C1C24; color: #E4E4E7; border: 1px solid rgba(255,255,255,0.06); border-radius: 6px; padding: 4px 10px; font-size: 11px; font-weight: 600; margin-right: 6px; display: inline-block; font-family: monospace; margin-bottom: 6px;">Node.js</span><span style="background: #1C1C24; color: #E4E4E7; border: 1px solid rgba(255,255,255,0.06); border-radius: 6px; padding: 4px 10px; font-size: 11px; font-weight: 600; margin-right: 6px; display: inline-block; font-family: monospace; margin-bottom: 6px;">Tailwind CSS</span><span style="background: #1C1C24; color: #E4E4E7; border: 1px solid rgba(255,255,255,0.06); border-radius: 6px; padding: 4px 10px; font-size: 11px; font-weight: 600; margin-right: 6px; display: inline-block; font-family: monospace; margin-bottom: 6px;">Vite</span>
+</div>
+<div align="left">
+<a href="" target="_blank" style="text-decoration: none; margin-right: 8px;"><img src="https://img.shields.io/badge/Repository-0D0D11?style=for-the-badge&logo=github&logoColor=white&border=1px_solid_FF6B00" alt="GitHub" /></a>
+<a href="https://www.hotbers.in" target="_blank" style="text-decoration: none;"><img src="https://img.shields.io/badge/Live_Demo-FF6B00?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Demo" /></a>
+</div>
+</div>
+</td>
+<td width="50%" valign="top">
+<div align="left" style="border: 1px solid rgba(255,107,0,0.15); border-radius: 12px; padding: 20px; background: #0D0D11; height: 100%; box-shadow: 0 4px 20px rgba(0,0,0,0.35);">
+<div style="font-family: monospace; font-size: 11px; color: #FF6B00; font-weight: bold; margin-bottom: 8px; letter-spacing: 1px;">FEATURED SYSTEM</div>
+<h3 style="color: #FFFFFF; font-size: 20px; margin: 0 0 10px 0; font-family: -apple-system, BlinkMacSystemFont, sans-serif; font-weight: 800;">TVARIT</h3>
+<p style="color: #A0A0B0; font-size: 14px; line-height: 1.5; min-height: 72px; margin-bottom: 16px;">Personalized recipes, AI recommendations, nutrition tracking and online ordering.</p>
+<div style="margin-bottom: 18px;">
+<span style="background: #1C1C24; color: #E4E4E7; border: 1px solid rgba(255,255,255,0.06); border-radius: 6px; padding: 4px 10px; font-size: 11px; font-weight: 600; margin-right: 6px; display: inline-block; font-family: monospace; margin-bottom: 6px;">React</span><span style="background: #1C1C24; color: #E4E4E7; border: 1px solid rgba(255,255,255,0.06); border-radius: 6px; padding: 4px 10px; font-size: 11px; font-weight: 600; margin-right: 6px; display: inline-block; font-family: monospace; margin-bottom: 6px;">Firebase</span><span style="background: #1C1C24; color: #E4E4E7; border: 1px solid rgba(255,255,255,0.06); border-radius: 6px; padding: 4px 10px; font-size: 11px; font-weight: 600; margin-right: 6px; display: inline-block; font-family: monospace; margin-bottom: 6px;">Node.js</span><span style="background: #1C1C24; color: #E4E4E7; border: 1px solid rgba(255,255,255,0.06); border-radius: 6px; padding: 4px 10px; font-size: 11px; font-weight: 600; margin-right: 6px; display: inline-block; font-family: monospace; margin-bottom: 6px;">Tailwind CSS</span>
+</div>
+<div align="left">
+<a href="https://github.com/sandeepreddy2147/tvarit" target="_blank" style="text-decoration: none; margin-right: 8px;"><img src="https://img.shields.io/badge/Repository-0D0D11?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+<a href="https://tvarit-gamma.vercel.app/login" target="_blank" style="text-decoration: none;"><img src="https://img.shields.io/badge/Live_Demo-FF6B00?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Demo" /></a>
+</div>
+</div>
+</td>
+</tr>
   </table>
 </div>
 
