@@ -13,7 +13,7 @@
 
   <!-- 3. PREMIUM SOCIAL BUTTONS -->
   <div style="margin: 20px 0 35px 0;">
-    <a href="https://github.com/sandeepreddy2147/" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a> &nbsp; <a href="https://byreddy-venkata-sandeep-reddy.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-FF6B00?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" /></a> &nbsp; <a href="https://www.linkedin.com/in/byreddy-venkata-sandeep-reddy/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a> &nbsp; <a href="mailto:b.v.sandeepreddy21@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a> &nbsp; <a href="https://x.com/reddy21_sandeep" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=x&logoColor=white" alt="Twitter" /></a> &nbsp; <a href="https://discord.gg/TRZXHJyNE" target="_blank"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a> &nbsp; <a href="https://www.instagram.com/sandeep_reddy_21" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
+    <a href="https://github.com/sandeepreddy2147" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a> &nbsp; <a href="https://byreddy-venkata-sandeep-reddy.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-FF6B00?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" /></a> &nbsp; <a href="https://www.linkedin.com/in/byreddy-venkata-sandeep-reddy/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a> &nbsp; <a href="mailto:b.v.sandeepreddy21@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a> &nbsp; <a href="https://x.com/reddy21_sandeep" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=x&logoColor=white" alt="Twitter" /></a> &nbsp; <a href="https://discord.gg/TRZXHJyNE" target="_blank"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a> &nbsp; <a href="https://www.instagram.com/sandeep_reddy_21" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
   </div>
 
 </div>
@@ -48,7 +48,7 @@
   - 402/Rate-Limited: The public instances of github-readme-stats can be heavily rate-limited by GitHub.
   - Solution 1: Deploy your own free instance on Vercel (highly recommended) by clicking "Deploy to Vercel" on https://github.com/anuraghazra/github-readme-stats and use your custom Vercel URL here.
   - Solution 2: Replace "github-readme-stats.vercel.app" with a public mirror like "github-readme-stats-eight-gray.vercel.app" or "github-readme-stats-anuraghazra.vercel.app".
-  - Solution 3: Ensure your GitHub username "sandeepreddy2147/" is spelled correctly and your profile is public.
+  - Solution 3: Ensure your GitHub username "sandeepreddy2147" is spelled correctly and your profile is public.
 -->
 <div align="center">
   <h2 style="font-family: -apple-system, BlinkMacSystemFont, sans-serif; font-weight: 800; font-size: 24px; color: #FFFFFF; margin-bottom: 24px; letter-spacing: -0.5px;">📊 Analytics &amp; Repository Diagnostics</h2>
@@ -57,10 +57,10 @@
   <table width="100%" border="0" cellpadding="5" cellspacing="0">
     <tr>
       <td width="50%" align="center" valign="middle">
-        <img src="https://github-readme-streak-stats.herokuapp.com?user=sandeepreddy2147/&theme=default&ring=FF6B00&fire=FF6B00&currStreakLabel=FF6B00&border=E4E4E7" alt="GitHub Streak" width="100%" style="max-width: 400px; border-radius: 8px;" />
+        <img src="https://github-readme-streak-stats.herokuapp.com?user=sandeepreddy2147&theme=default&ring=FF6B00&fire=FF6B00&currStreakLabel=FF6B00&border=E4E4E7" alt="GitHub Streak" width="100%" style="max-width: 400px; border-radius: 8px;" />
       </td>
       <td width="50%" align="center" valign="middle">
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sandeepreddy2147/&theme=default" alt="GitHub Profile Summary" width="100%" style="max-width: 400px; border-radius: 8px;" />
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sandeepreddy2147&theme=default" alt="GitHub Profile Summary" width="100%" style="max-width: 400px; border-radius: 8px;" />
       </td>
     </tr>
   </table>
@@ -79,21 +79,21 @@
 <tr>
 <td width="50%" valign="top">
 <div align="center">
-<a href="" target="_blank">
-<img src="./assets/project-project1.svg" alt="Hotbers - PG Management SaaS Platform" width="100%" style="border-radius: 12px;" />
+<a href="#" target="_blank">
+<img src="./assets/project-project1.svg" alt="Hotbers - PG Management SaaS Platform" width="100%" style="border-radius: 14px; margin-bottom: 14px;" />
 </a>
-<div align="center" style="margin-top: 10px; margin-bottom: 15px;">
-<a href="" target="_blank" style="text-decoration: none;"><img src="https://img.shields.io/badge/Live_Demo-FF6B00?style=for-the-badge" alt="Demo" /></a>
+<div align="center" style="margin-top: 14px; margin-bottom: 18px;">
+<a href="#" target="_blank" style="text-decoration: none;"><img src="https://img.shields.io/badge/Live_Demo-FF6B00?style=for-the-badge&logoColor=white" alt="Demo" /></a>
 </div>
 </div>
 </td>
 <td width="50%" valign="top">
 <div align="center">
 <a href="https://tvarit-gamma.vercel.app/login" target="_blank">
-<img src="./assets/project-proj-1783173813810.svg" alt="Tvarit" width="100%" style="border-radius: 12px;" />
+<img src="./assets/project-proj-1783173813810.svg" alt="Tvarit" width="100%" style="border-radius: 14px; margin-bottom: 14px;" />
 </a>
-<div align="center" style="margin-top: 10px; margin-bottom: 15px;">
-<a href="https://github.com/sandeepreddy2147/tvarit" target="_blank" style="text-decoration: none; margin-right: 8px;"><img src="https://img.shields.io/badge/Repository-1A1A24?style=for-the-badge" alt="GitHub" /></a><a href="https://tvarit-gamma.vercel.app/login" target="_blank" style="text-decoration: none;"><img src="https://img.shields.io/badge/Live_Demo-FF6B00?style=for-the-badge" alt="Demo" /></a>
+<div align="center" style="margin-top: 14px; margin-bottom: 18px;">
+<a href="https://github.com/sandeepreddy2147/tvarit" target="_blank" style="text-decoration: none;"><img src="https://img.shields.io/badge/Repository-1A1A24?style=for-the-badge&logoColor=white" alt="GitHub" /></a> &nbsp;&nbsp; <a href="https://tvarit-gamma.vercel.app/login" target="_blank" style="text-decoration: none;"><img src="https://img.shields.io/badge/Live_Demo-FF6B00?style=for-the-badge&logoColor=white" alt="Demo" /></a>
 </div>
 </div>
 </td>
