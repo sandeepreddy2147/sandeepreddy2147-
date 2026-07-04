@@ -67,7 +67,57 @@
 </div>
 
 <hr style="border: 0; border-top: 1px solid rgba(255, 107, 0, 0.15); margin: 40px 0;" />
+<!-- 5. GITHUB ANALYTICS -->
 
+<!-- ========================================= -->
+
+<div align="center">
+
+<h2 style="font-family:-apple-system,BlinkMacSystemFont,sans-serif;font-weight:800;font-size:24px;color:#FFFFFF;margin-bottom:24px;letter-spacing:-0.5px;">
+
+📊 Analytics & Repository Diagnostics
+
+</h2>
+
+<table width="100%" border="0" cellpadding="5" cellspacing="0">
+
+<tr>
+
+<td width="50%" align="center" valign="middle">
+
+<img
+
+src="https://github-readme-streak-stats.herokuapp.com?user=sandeepreddy2147&theme=default&ring=FF6B00&fire=FF6B00&currStreakLabel=FF6B00&border=E4E4E7"
+
+alt="GitHub Streak"
+
+width="100%"
+
+style="max-width:400px;border-radius:8px;" />
+
+</td>
+
+<td width="50%" align="center" valign="middle">
+
+<img
+
+src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sandeepreddy2147&theme=default"
+
+alt="GitHub Profile Summary"
+
+width="100%"
+
+style="max-width:400px;border-radius:8px;" />
+
+</td>
+
+</tr>
+
+</table>
+
+</div>
+
+<hr style="border:0;border-top:1px solid rgba(255,107,0,.15);margin:40px 0;" />
 <!-- 6. FEATURED PROJECTS -->
 <div align="left">
   <div align="center">
