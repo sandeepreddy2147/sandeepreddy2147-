@@ -98,6 +98,28 @@
 </div>
 </td>
 </tr>
+<tr>
+<td width="50%" valign="top">
+<div align="center">
+<a href="https://github-readme-blueprint-designer.vercel.app/" target="_blank">
+<img src="./assets/project-proj-1783221432406.svg" alt="Github README Blueprint Designer" width="504" style="border-radius: 14px; margin-bottom: 16px;" />
+</a>
+<div align="center" style="margin-top: 16px; margin-bottom: 20px;">
+<a href="https://github-readme-blueprint-designer.vercel.app/" target="_blank" style="text-decoration: none;"><img src="https://img.shields.io/badge/Live_Demo-FF6B00?style=for-the-badge&logoColor=white" alt="Demo" /></a>
+</div>
+</div>
+</td>
+<td width="50%" valign="top">
+<div align="center">
+<a href="https://byreddy-venkata-sandeep-reddy.vercel.app/" target="_blank">
+<img src="./assets/project-proj-1783221634606.svg" alt="Professional Portfolio" width="504" style="border-radius: 14px; margin-bottom: 16px;" />
+</a>
+<div align="center" style="margin-top: 16px; margin-bottom: 20px;">
+<a href="https://github.com/sandeepreddy2147/Byreddy-portfolio" target="_blank" style="text-decoration: none;"><img src="https://img.shields.io/badge/Repository-1A1A24?style=for-the-badge&logoColor=white" alt="GitHub" /></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://byreddy-venkata-sandeep-reddy.vercel.app/" target="_blank" style="text-decoration: none;"><img src="https://img.shields.io/badge/Live_Demo-FF6B00?style=for-the-badge&logoColor=white" alt="Demo" /></a>
+</div>
+</div>
+</td>
+</tr>
   </table>
 </div>
 
