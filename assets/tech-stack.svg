@@ -1,0 +1,110 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 200" width="100%" height="auto">
+  <defs>
+    <linearGradient id="techGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#FF8A00" />
+      <stop offset="100%" stop-color="#FF5500" />
+    </linearGradient>
+  </defs>
+
+  <!-- Background -->
+  <rect width="800" height="200" rx="12" fill="#FAF9F6" stroke="#FF6B00" stroke-opacity="0.1" stroke-width="1" />
+
+  <!-- Grid overlay -->
+  <g opacity="0.04">
+    <path d="M0,40 L800,40 M0,80 L800,80 M0,120 L800,120 M0,160 L800,160" stroke="#000000" stroke-width="1" />
+    <path d="M100,0 L100,200 M200,0 L200,200 M300,0 L300,200 M400,0 L400,200 M500,0 L500,200 M600,0 L600,200 M700,0 L700,200" stroke="#000000" stroke-width="1" />
+  </g>
+
+  <!-- Title block -->
+  <g transform="translate(40, 45)">
+    <rect x="0" y="0" width="4" height="24" rx="2" fill="url(#techGrad)" />
+    <text x="14" y="18" fill="#18181B" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="900" letter-spacing="1">TECHNOSPHERE CORE</text>
+  </g>
+
+  
+    <!-- Skill Card 1: React -->
+    <g transform="translate(40, 95)">
+      <rect width="110" height="60" rx="10" fill="#FFFFFF" stroke="#FF6B00" stroke-opacity="0.12" stroke-width="1" />
+      
+      <!-- Custom Vector Icon -->
+      <g transform="translate(15, 15)">
+      <circle cx="15" cy="15" r="15" fill="#FFFFFF" />
+      <ellipse cx="15" cy="15" rx="4" ry="11" fill="none" stroke="#61DAFB" stroke-width="1.2" transform="rotate(30 15 15)" />
+      <ellipse cx="15" cy="15" rx="4" ry="11" fill="none" stroke="#61DAFB" stroke-width="1.2" transform="rotate(90 15 15)" />
+      <ellipse cx="15" cy="15" rx="4" ry="11" fill="none" stroke="#61DAFB" stroke-width="1.2" transform="rotate(150 15 15)" />
+      <circle cx="15" cy="15" r="2.5" fill="#61DAFB" />
+    </g>
+      
+      <!-- Label -->
+      <text x="56" y="34" fill="#18181B" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="bold">React</text>
+    </g>
+
+    <!-- Skill Card 2: JS -->
+    <g transform="translate(165, 95)">
+      <rect width="110" height="60" rx="10" fill="#FFFFFF" stroke="#FF6B00" stroke-opacity="0.12" stroke-width="1" />
+      
+      <!-- Custom Vector Icon -->
+      <rect x="15" y="15" width="30" height="30" rx="4" fill="#F7DF1E" />
+    <text x="22" y="35" fill="#000000" font-family="Arial, sans-serif" font-size="16" font-weight="bold">J</text>
+    <text x="31" y="35" fill="#000000" font-family="Arial, sans-serif" font-size="16" font-weight="bold">S</text>
+      
+      <!-- Label -->
+      <text x="56" y="34" fill="#18181B" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="bold">JS</text>
+    </g>
+
+    <!-- Skill Card 3: Node -->
+    <g transform="translate(290, 95)">
+      <rect width="110" height="60" rx="10" fill="#FFFFFF" stroke="#FF6B00" stroke-opacity="0.12" stroke-width="1" />
+      
+      <!-- Custom Vector Icon -->
+      <g transform="translate(15, 15)">
+      <path d="M5 10 l 10 -6 l 10 6 v 10 l -10 6 l -10 -6 z" fill="none" stroke="#339933" stroke-width="1.8" />
+      <path d="M15 4 v 18 M5 10 l 10 4 l 10 -4" fill="none" stroke="#339933" stroke-width="1.2" />
+    </g>
+      
+      <!-- Label -->
+      <text x="56" y="34" fill="#18181B" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="bold">Node</text>
+    </g>
+
+    <!-- Skill Card 4: html -->
+    <g transform="translate(415, 95)">
+      <rect width="110" height="60" rx="10" fill="#FFFFFF" stroke="#FF6B00" stroke-opacity="0.12" stroke-width="1" />
+      
+      <!-- Custom Vector Icon -->
+      <rect x="15" y="15" width="30" height="30" rx="6" fill="#FFFFFF" stroke="#FF6B00" stroke-opacity="0.4" stroke-width="1.5" />
+        <text x="30" y="34" fill="#FF6B00" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle">HT</text>
+      
+      <!-- Label -->
+      <text x="56" y="34" fill="#18181B" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="bold">html</text>
+    </g>
+
+    <!-- Skill Card 5: css -->
+    <g transform="translate(540, 95)">
+      <rect width="110" height="60" rx="10" fill="#FFFFFF" stroke="#FF6B00" stroke-opacity="0.12" stroke-width="1" />
+      
+      <!-- Custom Vector Icon -->
+      <rect x="15" y="15" width="30" height="30" rx="6" fill="#FFFFFF" stroke="#FF6B00" stroke-opacity="0.4" stroke-width="1.5" />
+        <text x="30" y="34" fill="#FF6B00" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle">CS</text>
+      
+      <!-- Label -->
+      <text x="56" y="34" fill="#18181B" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="bold">css</text>
+    </g>
+
+    <!-- Skill Card 6: Git -->
+    <g transform="translate(665, 95)">
+      <rect width="110" height="60" rx="10" fill="#FFFFFF" stroke="#FF6B00" stroke-opacity="0.12" stroke-width="1" />
+      
+      <!-- Custom Vector Icon -->
+      <g transform="translate(15, 15)">
+      <rect x="5" y="5" width="20" height="20" rx="3" transform="rotate(45 15 15)" fill="#F05032" />
+      <line x1="15" y1="9" x2="15" y2="21" stroke="#FFFFFF" stroke-width="2" />
+      <circle cx="15" cy="9" r="3" fill="#FFFFFF" />
+      <circle cx="15" cy="21" r="3" fill="#FFFFFF" />
+      <path d="M15 15 C 20 15, 20 19, 20 21" stroke="#FFFFFF" stroke-width="2" fill="none" />
+      <circle cx="20" cy="21" r="3" fill="#FFFFFF" />
+    </g>
+      
+      <!-- Label -->
+      <text x="56" y="34" fill="#18181B" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="bold">Git</text>
+    </g>
+</svg>
