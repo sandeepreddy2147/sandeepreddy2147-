@@ -4,7 +4,7 @@
 <div align="center">
 
   <!-- 1. PREMIUM HERO BANNER -->
-  <img src="./assets/hero-banner.svg" alt="Byreddy Venkata Sandeep Reddy - Full Stack Developer | SaaS Builder | AI Specialist" width="100%" style="border-radius: 16px; margin-bottom: 24px;" />
+  <img src="./assets/hero-banner.svg" alt="Byreddy Venkata Sandeep Reddy - Full Stack Developer | SaaS Builder | AI Specialist" width="100%" />
 
   <!-- 2. ANIMATED TYPING SUB-TITLE -->
   <a href="https://byreddy-venkata-sandeep-reddy.vercel.app/" target="_blank">
@@ -30,11 +30,11 @@
 
 <hr style="border: 0; border-top: 1px solid rgba(255, 107, 0, 0.15); margin: 40px 0;" />
 
-<!-- 4. TECH STACK (Displaying using Skill Icons) -->
+<!-- 4. TECH STACK -->
 <div align="center">
   <h2 style="font-family: -apple-system, BlinkMacSystemFont, sans-serif; font-weight: 800; font-size: 24px; color: #FFFFFF; margin-bottom: 20px; letter-spacing: -0.5px;">🛠️ Technosphere Core</h2>
   <p style="color: #8F8F9F; font-size: 14px; margin-top: -15px; margin-bottom: 24px;">Systems, languages, databases, and continuous delivery models.</p>
-  
+
   <a href="https://skillicons.dev" target="_blank">
     <img src="https://skillicons.dev/icons?i=react,javascript,nodejs,html,css,git,github,vscode,nextjs,tailwind,vite,python,firebase,mysql,mongodb,supabase,dynamodb,aws,gcp,vercel,githubactions&perline=7" alt="Tech Stack" />
   </a>
@@ -43,24 +43,16 @@
 <hr style="border: 0; border-top: 1px solid rgba(255, 107, 0, 0.15); margin: 40px 0;" />
 
 <!-- 5. GITHUB ANALYTICS -->
-<!-- 
-  📢 TROUBLESHOOTING GITHUB STATS & TROPHIES (IF YOU SEE 402, 404, OR BROKEN IMAGES):
-  - 402/Rate-Limited: The public instances of github-readme-stats can be heavily rate-limited by GitHub.
-  - Solution 1: Deploy your own free instance on Vercel (highly recommended) by clicking "Deploy to Vercel" on https://github.com/anuraghazra/github-readme-stats and use your custom Vercel URL here.
-  - Solution 2: Replace "github-readme-stats.vercel.app" with a public mirror like "github-readme-stats-eight-gray.vercel.app" or "github-readme-stats-anuraghazra.vercel.app".
-  - Solution 3: Ensure your GitHub username "sandeepreddy2147" is spelled correctly and your profile is public.
--->
 <div align="center">
   <h2 style="font-family: -apple-system, BlinkMacSystemFont, sans-serif; font-weight: 800; font-size: 24px; color: #FFFFFF; margin-bottom: 24px; letter-spacing: -0.5px;">📊 Analytics &amp; Repository Diagnostics</h2>
-  
-  <!-- Grid alignment layout -->
+
   <table width="100%" border="0" cellpadding="5" cellspacing="0">
     <tr>
       <td width="50%" align="center" valign="middle">
-        <img src="https://streak-stats.demolab.com?user=sandeepreddy2147&theme=default&ring=FF6B00&fire=FF6B00&currStreakLabel=FF6B00&border=E4E4E7&v=20260706" alt="GitHub Streak" width="100%" style="max-width: 400px; border-radius: 8px;" />
+        <img src="https://streak-stats.demolab.com?user=sandeepreddy2147&theme=default&ring=FF6B00&fire=FF6B00&currStreakLabel=FF6B00&border=E4E4E7&v=20260706" alt="GitHub Streak" width="100%" />
       </td>
       <td width="50%" align="center" valign="middle">
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sandeepreddy2147&theme=default&v=20260706" alt="GitHub Profile Summary" width="100%" style="max-width: 400px; border-radius: 8px;" />
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sandeepreddy2147&theme=default&v=20260706" alt="GitHub Profile Summary" width="100%" />
       </td>
     </tr>
   </table>
@@ -74,36 +66,59 @@
   <p style="color: #8F8F9F; font-size: 14px; margin-top: 0; margin-bottom: 28px;">Production-ready platforms designed for velocity, performance, and impact.</p>
 
 <div align="center" style="margin-bottom: 36px;">
+
 <a href="#" target="_blank">
-<img src="./assets/project-project1.svg" alt="Hotbers - PG Management SaaS Platform" width="880" style="border-radius: 16px; margin-bottom: 16px;" />
+<img src="./assets/project-project1.svg" alt="Hotbers - PG Management SaaS Platform" width="880" />
 </a>
+
 <div align="center" style="margin-top: 16px;">
 <a href="#" target="_blank" style="text-decoration: none;"><img src="https://img.shields.io/badge/Live_Demo-FF6B00?style=for-the-badge&logoColor=white" alt="Demo" /></a>
 </div>
+
 </div>
 <div align="center" style="margin-bottom: 36px;">
+
 <a href="https://tvarit-gamma.vercel.app/login" target="_blank">
-<img src="./assets/project-proj-1783173813810.svg" alt="Tvarit" width="880" style="border-radius: 16px; margin-bottom: 16px;" />
+<img src="./assets/project-proj-1783173813810.svg" alt="Tvarit" width="880" />
 </a>
+
 <div align="center" style="margin-top: 16px;">
 <a href="https://github.com/sandeepreddy2147/tvarit" target="_blank" style="text-decoration: none;"><img src="https://img.shields.io/badge/Repository-1A1A24?style=for-the-badge&logoColor=white" alt="GitHub" /></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://tvarit-gamma.vercel.app/login" target="_blank" style="text-decoration: none;"><img src="https://img.shields.io/badge/Live_Demo-FF6B00?style=for-the-badge&logoColor=white" alt="Demo" /></a>
 </div>
+
 </div>
 <div align="center" style="margin-bottom: 36px;">
+
 <a href="https://github-readme-blueprint-designer.vercel.app/" target="_blank">
-<img src="./assets/project-proj-1783221432406.svg" alt="Github README Blueprint Designer" width="880" style="border-radius: 16px; margin-bottom: 16px;" />
+<img src="./assets/project-proj-1783221432406.svg" alt="Github README Blueprint Designer" width="880" />
 </a>
+
 <div align="center" style="margin-top: 16px;">
 <a href="https://github-readme-blueprint-designer.vercel.app/" target="_blank" style="text-decoration: none;"><img src="https://img.shields.io/badge/Live_Demo-FF6B00?style=for-the-badge&logoColor=white" alt="Demo" /></a>
 </div>
+
 </div>
 <div align="center" style="margin-bottom: 36px;">
+
 <a href="https://byreddy-venkata-sandeep-reddy.vercel.app/" target="_blank">
-<img src="./assets/project-proj-1783221634606.svg" alt="Professional Portfolio" width="880" style="border-radius: 16px; margin-bottom: 16px;" />
+<img src="./assets/project-proj-1783221634606.svg" alt="Professional Portfolio" width="880" />
 </a>
+
 <div align="center" style="margin-top: 16px;">
 <a href="https://github.com/sandeepreddy2147/Byreddy-portfolio" target="_blank" style="text-decoration: none;"><img src="https://img.shields.io/badge/Repository-1A1A24?style=for-the-badge&logoColor=white" alt="GitHub" /></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://byreddy-venkata-sandeep-reddy.vercel.app/" target="_blank" style="text-decoration: none;"><img src="https://img.shields.io/badge/Live_Demo-FF6B00?style=for-the-badge&logoColor=white" alt="Demo" /></a>
 </div>
+
+</div>
+<div align="center" style="margin-bottom: 36px;">
+
+<a href="https://example.com" target="_blank">
+<img src="./assets/project-proj-1783356762383.svg" alt="New Enterprise System" width="880" />
+</a>
+
+<div align="center" style="margin-top: 16px;">
+<a href="https://github.com/sandeepreddy2147/new-system" target="_blank" style="text-decoration: none;"><img src="https://img.shields.io/badge/Repository-1A1A24?style=for-the-badge&logoColor=white" alt="GitHub" /></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://example.com" target="_blank" style="text-decoration: none;"><img src="https://img.shields.io/badge/Live_Demo-FF6B00?style=for-the-badge&logoColor=white" alt="Demo" /></a>
+</div>
+
 </div>
 </div>
 
@@ -111,7 +126,7 @@
 
 <!-- 7. ACHIEVEMENTS -->
 <div align="center">
-  <img src="./assets/achievements.svg" alt="Accolades &amp; Achievements" width="100%" style="border-radius: 18px; margin-bottom: 24px;" />
+  <img src="./assets/achievements.svg" alt="Accolades &amp; Achievements" width="100%" />
 </div>
 
 <hr style="border: 0; border-top: 1px solid rgba(255, 107, 0, 0.15); margin: 40px 0;" />
@@ -119,26 +134,26 @@
 <!-- 8. DEVELOPMENT WORKFLOW -->
 <div align="center">
   <h2 style="font-family: -apple-system, BlinkMacSystemFont, sans-serif; font-weight: 800; font-size: 24px; color: #FFFFFF; margin-bottom: 8px; letter-spacing: -0.5px;">🔄 Modern Development Blueprint</h2>
-  <p style="color: #8F8F9F; font-size: 14px; margin-top: 0; margin-bottom: 24px;">An continuous-delivery architecture designed to translate product vision into pixel-perfect scalable realities.</p>
-  
-  <img src="./assets/workflow.svg" alt="Byreddy Venkata Sandeep Reddy Workflow Blueprint" width="100%" style="border-radius: 12px; margin-bottom: 12px;" />
+  <p style="color: #8F8F9F; font-size: 14px; margin-top: 0; margin-bottom: 24px;">A continuous-delivery architecture designed to translate product vision into pixel-perfect scalable realities.</p>
+
+  <img src="./assets/workflow.svg" alt="Byreddy Venkata Sandeep Reddy Workflow Blueprint" width="100%" />
 </div>
 
 <hr style="border: 0; border-top: 1px solid rgba(255, 107, 0, 0.15); margin: 40px 0;" />
 
 <!-- 9. QUOTE -->
 <div align="center">
-  <img src="./assets/quote.svg" alt="Philosophy" width="100%" style="max-width: 800px; border-radius: 12px;" />
+  <img src="./assets/quote.svg" alt="Philosophy" width="100%" />
 </div>
 
 <hr style="border: 0; border-top: 1px solid rgba(255, 107, 0, 0.15); margin: 40px 0;" />
 
-<!-- 10. CONNECT / LOCATION -->
+<!-- 10. CONNECT -->
 <div align="center">
   <h2 style="font-family: -apple-system, BlinkMacSystemFont, sans-serif; font-weight: 800; font-size: 24px; color: #FFFFFF; margin-bottom: 24px; letter-spacing: -0.5px;">🤝 Open-Loop Communication</h2>
 
   <a href="https://byreddy-venkata-sandeep-reddy.vercel.app/" target="_blank">
-    <img src="./assets/contact-card.svg" alt="Open-Loop Communication" width="100%" style="max-width: 800px; border-radius: 12px; margin-bottom: 12px;" />
+    <img src="./assets/contact-card.svg" alt="Open-Loop Communication" width="100%" />
   </a>
 </div>
 
