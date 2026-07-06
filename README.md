@@ -57,10 +57,10 @@
   <table width="100%" border="0" cellpadding="5" cellspacing="0">
     <tr>
       <td width="50%" align="center" valign="middle">
-        <img src="https://streak-stats.demolab.com?user=sandeepreddy2147&theme=default&ring=FF6B00&fire=FF6B00&currStreakLabel=FF6B00&border=E4E4E7&v=20260706" alt="GitHub Streak" width="100%" style="border-radius: 8px;" />
+        <img src="https://streak-stats.demolab.com?user=sandeepreddy2147&theme=default&ring=FF6B00&fire=FF6B00&currStreakLabel=FF6B00&border=E4E4E7&v=20260706" alt="GitHub Streak" width="100%" style="max-width: 400px; border-radius: 8px;" />
       </td>
       <td width="50%" align="center" valign="middle">
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sandeepreddy2147&theme=default&v=20260706" alt="GitHub Profile Summary" width="100%" style="border-radius: 8px;" />
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sandeepreddy2147&theme=default&v=20260706" alt="GitHub Profile Summary" width="100%" style="max-width: 400px; border-radius: 8px;" />
       </td>
     </tr>
   </table>
@@ -75,12 +75,12 @@
     <p style="color: #8F8F9F; font-size: 14px; margin-top: 0; margin-bottom: 28px;">Production-ready platforms designed for velocity, performance, and impact.</p>
   </div>
 
-  <table width="100%" border="0" cellpadding="10" cellspacing="0">
+  <table width="100%" border="0" cellpadding="8" cellspacing="0">
 <tr>
 <td width="50%" valign="top">
 <div align="center">
 <a href="#" target="_blank">
-<img src="./assets/project-project1.svg" alt="Hotbers - PG Management SaaS Platform" width="100%" style="border-radius: 14px; margin-bottom: 16px;" />
+<img src="./assets/project-project1.svg" alt="Hotbers - PG Management SaaS Platform" width="504" style="border-radius: 14px; margin-bottom: 16px;" />
 </a>
 <div align="center" style="margin-top: 16px; margin-bottom: 20px;">
 <a href="#" target="_blank" style="text-decoration: none;"><img src="https://img.shields.io/badge/Live_Demo-FF6B00?style=for-the-badge&logoColor=white" alt="Demo" /></a>
@@ -90,7 +90,7 @@
 <td width="50%" valign="top">
 <div align="center">
 <a href="https://tvarit-gamma.vercel.app/login" target="_blank">
-<img src="./assets/project-proj-1783173813810.svg" alt="Tvarit" width="100%" style="border-radius: 14px; margin-bottom: 16px;" />
+<img src="./assets/project-proj-1783173813810.svg" alt="Tvarit" width="504" style="border-radius: 14px; margin-bottom: 16px;" />
 </a>
 <div align="center" style="margin-top: 16px; margin-bottom: 20px;">
 <a href="https://github.com/sandeepreddy2147/tvarit" target="_blank" style="text-decoration: none;"><img src="https://img.shields.io/badge/Repository-1A1A24?style=for-the-badge&logoColor=white" alt="GitHub" /></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://tvarit-gamma.vercel.app/login" target="_blank" style="text-decoration: none;"><img src="https://img.shields.io/badge/Live_Demo-FF6B00?style=for-the-badge&logoColor=white" alt="Demo" /></a>
@@ -102,7 +102,7 @@
 <td width="50%" valign="top">
 <div align="center">
 <a href="https://github-readme-blueprint-designer.vercel.app/" target="_blank">
-<img src="./assets/project-proj-1783221432406.svg" alt="Github README Blueprint Designer" width="100%" style="border-radius: 14px; margin-bottom: 16px;" />
+<img src="./assets/project-proj-1783221432406.svg" alt="Github README Blueprint Designer" width="504" style="border-radius: 14px; margin-bottom: 16px;" />
 </a>
 <div align="center" style="margin-top: 16px; margin-bottom: 20px;">
 <a href="https://github-readme-blueprint-designer.vercel.app/" target="_blank" style="text-decoration: none;"><img src="https://img.shields.io/badge/Live_Demo-FF6B00?style=for-the-badge&logoColor=white" alt="Demo" /></a>
@@ -112,7 +112,7 @@
 <td width="50%" valign="top">
 <div align="center">
 <a href="https://byreddy-venkata-sandeep-reddy.vercel.app/" target="_blank">
-<img src="./assets/project-proj-1783221634606.svg" alt="Professional Portfolio" width="100%" style="border-radius: 14px; margin-bottom: 16px;" />
+<img src="./assets/project-proj-1783221634606.svg" alt="Professional Portfolio" width="504" style="border-radius: 14px; margin-bottom: 16px;" />
 </a>
 <div align="center" style="margin-top: 16px; margin-bottom: 20px;">
 <a href="https://github.com/sandeepreddy2147/Byreddy-portfolio" target="_blank" style="text-decoration: none;"><img src="https://img.shields.io/badge/Repository-1A1A24?style=for-the-badge&logoColor=white" alt="GitHub" /></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://byreddy-venkata-sandeep-reddy.vercel.app/" target="_blank" style="text-decoration: none;"><img src="https://img.shields.io/badge/Live_Demo-FF6B00?style=for-the-badge&logoColor=white" alt="Demo" /></a>
