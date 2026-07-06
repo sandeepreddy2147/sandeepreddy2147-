@@ -109,17 +109,6 @@
 </div>
 
 </div>
-<div align="center" style="margin-bottom: 36px;">
-
-<a href="https://example.com" target="_blank">
-<img src="./assets/project-proj-1783356762383.svg" alt="New Enterprise System" width="880" />
-</a>
-
-<div align="center" style="margin-top: 16px;">
-<a href="https://github.com/sandeepreddy2147/new-system" target="_blank" style="text-decoration: none;"><img src="https://img.shields.io/badge/Repository-1A1A24?style=for-the-badge&logoColor=white" alt="GitHub" /></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://example.com" target="_blank" style="text-decoration: none;"><img src="https://img.shields.io/badge/Live_Demo-FF6B00?style=for-the-badge&logoColor=white" alt="Demo" /></a>
-</div>
-
-</div>
 </div>
 
 <hr style="border: 0; border-top: 1px solid rgba(255, 107, 0, 0.15); margin: 40px 0;" />
