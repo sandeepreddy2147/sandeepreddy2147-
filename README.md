@@ -57,10 +57,10 @@
   <table width="100%" border="0" cellpadding="5" cellspacing="0">
     <tr>
       <td width="50%" align="center" valign="middle">
-        <img src="https://github-readme-streak-stats.herokuapp.com?user=sandeepreddy2147&theme=default&ring=FF6B00&fire=FF6B00&currStreakLabel=FF6B00&border=E4E4E7&v=20260705" alt="GitHub Streak" width="100%" style="max-width: 400px; border-radius: 8px;" />
+        <img src="https://streak-stats.demolab.com?user=sandeepreddy2147&theme=default&ring=FF6B00&fire=FF6B00&currStreakLabel=FF6B00&border=E4E4E7&v=20260706" alt="GitHub Streak" width="100%" style="max-width: 400px; border-radius: 8px;" />
       </td>
       <td width="50%" align="center" valign="middle">
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sandeepreddy2147&theme=default&v=20260705" alt="GitHub Profile Summary" width="100%" style="max-width: 400px; border-radius: 8px;" />
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sandeepreddy2147&theme=default&v=20260706" alt="GitHub Profile Summary" width="100%" style="max-width: 400px; border-radius: 8px;" />
       </td>
     </tr>
   </table>
