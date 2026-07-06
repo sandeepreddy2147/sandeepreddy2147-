@@ -69,58 +69,42 @@
 <hr style="border: 0; border-top: 1px solid rgba(255, 107, 0, 0.15); margin: 40px 0;" />
 
 <!-- 6. FEATURED PROJECTS -->
-<div align="left">
-  <div align="center">
-    <h2 style="font-family: -apple-system, BlinkMacSystemFont, sans-serif; font-weight: 800; font-size: 24px; color: #FFFFFF; margin-bottom: 8px; letter-spacing: -0.5px;">💼 Featured Systems &amp; SaaS Products</h2>
-    <p style="color: #8F8F9F; font-size: 14px; margin-top: 0; margin-bottom: 28px;">Production-ready platforms designed for velocity, performance, and impact.</p>
-  </div>
-
-  <table width="100%" border="0" cellpadding="8" cellspacing="0">
-<tr>
-<td width="50%" valign="top">
 <div align="center">
+  <h2 style="font-family: -apple-system, BlinkMacSystemFont, sans-serif; font-weight: 800; font-size: 24px; color: #FFFFFF; margin-bottom: 8px; letter-spacing: -0.5px;">💼 Featured Systems &amp; SaaS Products</h2>
+  <p style="color: #8F8F9F; font-size: 14px; margin-top: 0; margin-bottom: 28px;">Production-ready platforms designed for velocity, performance, and impact.</p>
+
+<div align="center" style="margin-bottom: 36px;">
 <a href="#" target="_blank">
-<img src="./assets/project-project1.svg" alt="Hotbers - PG Management SaaS Platform" width="504" style="border-radius: 14px; margin-bottom: 16px;" />
+<img src="./assets/project-project1.svg" alt="Hotbers - PG Management SaaS Platform" width="880" style="border-radius: 16px; margin-bottom: 16px;" />
 </a>
-<div align="center" style="margin-top: 16px; margin-bottom: 20px;">
+<div align="center" style="margin-top: 16px;">
 <a href="#" target="_blank" style="text-decoration: none;"><img src="https://img.shields.io/badge/Live_Demo-FF6B00?style=for-the-badge&logoColor=white" alt="Demo" /></a>
 </div>
 </div>
-</td>
-<td width="50%" valign="top">
-<div align="center">
+<div align="center" style="margin-bottom: 36px;">
 <a href="https://tvarit-gamma.vercel.app/login" target="_blank">
-<img src="./assets/project-proj-1783173813810.svg" alt="Tvarit" width="504" style="border-radius: 14px; margin-bottom: 16px;" />
+<img src="./assets/project-proj-1783173813810.svg" alt="Tvarit" width="880" style="border-radius: 16px; margin-bottom: 16px;" />
 </a>
-<div align="center" style="margin-top: 16px; margin-bottom: 20px;">
+<div align="center" style="margin-top: 16px;">
 <a href="https://github.com/sandeepreddy2147/tvarit" target="_blank" style="text-decoration: none;"><img src="https://img.shields.io/badge/Repository-1A1A24?style=for-the-badge&logoColor=white" alt="GitHub" /></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://tvarit-gamma.vercel.app/login" target="_blank" style="text-decoration: none;"><img src="https://img.shields.io/badge/Live_Demo-FF6B00?style=for-the-badge&logoColor=white" alt="Demo" /></a>
 </div>
 </div>
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-<div align="center">
+<div align="center" style="margin-bottom: 36px;">
 <a href="https://github-readme-blueprint-designer.vercel.app/" target="_blank">
-<img src="./assets/project-proj-1783221432406.svg" alt="Github README Blueprint Designer" width="504" style="border-radius: 14px; margin-bottom: 16px;" />
+<img src="./assets/project-proj-1783221432406.svg" alt="Github README Blueprint Designer" width="880" style="border-radius: 16px; margin-bottom: 16px;" />
 </a>
-<div align="center" style="margin-top: 16px; margin-bottom: 20px;">
+<div align="center" style="margin-top: 16px;">
 <a href="https://github-readme-blueprint-designer.vercel.app/" target="_blank" style="text-decoration: none;"><img src="https://img.shields.io/badge/Live_Demo-FF6B00?style=for-the-badge&logoColor=white" alt="Demo" /></a>
 </div>
 </div>
-</td>
-<td width="50%" valign="top">
-<div align="center">
+<div align="center" style="margin-bottom: 36px;">
 <a href="https://byreddy-venkata-sandeep-reddy.vercel.app/" target="_blank">
-<img src="./assets/project-proj-1783221634606.svg" alt="Professional Portfolio" width="504" style="border-radius: 14px; margin-bottom: 16px;" />
+<img src="./assets/project-proj-1783221634606.svg" alt="Professional Portfolio" width="880" style="border-radius: 16px; margin-bottom: 16px;" />
 </a>
-<div align="center" style="margin-top: 16px; margin-bottom: 20px;">
+<div align="center" style="margin-top: 16px;">
 <a href="https://github.com/sandeepreddy2147/Byreddy-portfolio" target="_blank" style="text-decoration: none;"><img src="https://img.shields.io/badge/Repository-1A1A24?style=for-the-badge&logoColor=white" alt="GitHub" /></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://byreddy-venkata-sandeep-reddy.vercel.app/" target="_blank" style="text-decoration: none;"><img src="https://img.shields.io/badge/Live_Demo-FF6B00?style=for-the-badge&logoColor=white" alt="Demo" /></a>
 </div>
 </div>
-</td>
-</tr>
-  </table>
 </div>
 
 <hr style="border: 0; border-top: 1px solid rgba(255, 107, 0, 0.15); margin: 40px 0;" />
