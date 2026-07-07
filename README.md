@@ -60,7 +60,7 @@
 
 <hr style="border: 0; border-top: 1px solid rgba(255, 107, 0, 0.15); margin: 40px 0;" />
 
-<!-- 6. FEATURED PROJECTS -->
+
 <div align="center">
   <h2 style="font-family: -apple-system, BlinkMacSystemFont, sans-serif; font-weight: 800; font-size: 24px; color: #FFFFFF; margin-bottom: 8px; letter-spacing: -0.5px;">💼 Featured Systems &amp; SaaS Products</h2>
   <p style="color: #8F8F9F; font-size: 14px; margin-top: 0; margin-bottom: 28px;">Production-ready platforms designed for velocity, performance, and impact.</p>
